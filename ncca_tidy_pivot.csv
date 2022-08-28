@@ -1,0 +1,1093 @@
+UID,State,Date Collected,Waterbody,Region,Province,SITESAMP,Ammonia (mg N/L),Chlorophyll A (ug/L),Dissolved Inorganic Nitrogen (mg N/L),Dissolved Inorganic Phosphate (mg P/L),Dissolved Silica (mg/L),Nitrate (mg N/L),Nitrate/Nitrite (mg N/L),Nitrite (mg N/L),Nitrogen Particulate (mg N/L),Phosphorus Particulate (mg P/L),Total Dissolved Nitrogen (mg N/L),Total Dissolved Phosphorus (mg P/L),Total Kjeldahl Nitrogen (mg N/L),Total Nitrogen (mg N/L),Total Phosphorus (mg P/L)
+59,CA,2010-07-01,Mission Bay,West,Californian Province,Y,0.0,3.34,0.014,0.028,,,0.014,,,,,,,0.4075,0.06125375
+60,CA,2010-07-01,San Diego Bay,West,Californian Province,Y,0.01,2.45,0.02,0.026,,,0.01,,,,,,,0.23,0.03737875
+61,CA,2010-07-01,Mission Bay,West,Californian Province,Y,0.0,3.82,0.009,0.03,,,0.009,,,,,,,0.33625,0.0481
+62,CA,2010-07-01,San Diego Bay,West,Californian Province,Y,0.0,6.13,0.01,0.028,,,0.01,,,,,,,0.23875,0.04425125
+63,NC,2010-06-09,White Oak River,Southeast,Carolinian Province,Y,0.002,9.79,0.03,0.043,,,0.028,,,,,,,0.6325,0.09063625
+64,NC,2010-06-22,Back Sound,Southeast,Carolinian Province,Y,0.0,3.04,0.031,0.089,,,0.031,,,,,,,0.164375,0.015376875
+65,NC,2010-06-16,Pamlico Sound,Southeast,Carolinian Province,Y,0.002,7.51,0.019,0.01,,,0.017,,,,,,,0.443,0.036338
+66,NC,2010-06-22,Bogue Sound,Southeast,Carolinian Province,Y,0.0,10.96,0.029,0.05,,,0.029,,,,,,,0.535625,0.078323125
+67,NC,2010-06-02,Upper Broad Creek,Southeast,Carolinian Province,Y,0.005,13.63,0.005,0.013,,,0.0,,,,,,,0.60875,0.05833375
+68,NC,2010-06-07,Lockwood Follys River,Southeast,Carolinian Province,Y,0.044,6.42,0.081,0.02,,,0.037,,,,,,,0.7125,0.04730875
+69,NC,2010-06-09,New River,Southeast,Carolinian Province,Y,0.002,6.38,0.027,0.008,,,0.025,,,,,,,0.22875,0.0293375
+70,FL,2010-06-15,Nassau Sound,Southeast,Carolinian Province,Y,0.0,6.75,0.037,0.009,,,0.037,,,,,,,0.64625,0.06214125
+71,FL,2010-06-14,Saint Johns River,Southeast,Carolinian Province,Y,0.017,6.24,0.091,0.061,,,0.074,,,,,,,0.81125,0.096895
+72,FL,2010-06-16,Saint Johns River,Southeast,Carolinian Province,Y,0.009,51.14,0.009,0.003,,,0.0,,,,,,,1.308,0.07672
+73,FL,2010-06-15,Nassau River System,Southeast,Carolinian Province,Y,0.0,6.8,0.036,0.015,,,0.036,,,,,,,0.27375,0.04489625
+74,FL,2010-06-17,Matanzas River,Southeast,Carolinian Province,Y,0.0,4.35,0.032,0.029,,,0.032,,,,,,,0.28375,0.03963875
+109,FL,2010-06-16,Saint Johns River,Southeast,Carolinian Province,Y,0.007,6.87,0.015,0.041,,,0.008,,,,,,,0.90375,0.069065
+110,FL,2010-06-14,Trout River,Southeast,Carolinian Province,Y,0.005,7.77,0.097,0.073,,,0.092,,,,,,,0.655,0.10470125
+111,FL,2010-06-14,Trout River,Southeast,Carolinian Province,Y,0.006,10.92,0.026,0.09,,,0.02,,,,,,,0.74625,0.15590375
+177,FL,2010-06-17,Apalachee Bay,Gulf,Louisianian Province,Y,0.0,0.76,0.025,0.005,,,0.025,,,,,,,0.2625,0.00229875
+184,FL,2010-06-17,Apalachee Bay,Gulf,Louisianian Province,Y,0.0,2.54,0.029,0.005,,,0.029,,,,,,,0.19625,0.00278625
+185,FL,2010-06-16,Apalachee Bay,Gulf,Louisianian Province,Y,0.0,4.5,0.026,0.009,,,0.026,,,,,,,0.2875,0.01277375
+186,FL,2010-06-15,Ochlockonee River System,Gulf,Louisianian Province,Y,0.032,9.91,0.088,0.022,,,0.056,,,,,,,0.62,0.055835
+187,LA,2010-06-16,Lake Palourde #1,Gulf,Louisianian Province,Y,0.002,22.39,0.016,0.016,,,0.014,,,,,,,0.9325,0.08135875
+188,LA,2010-06-15,Hackberry Bay,Gulf,Louisianian Province,Y,0.002,18.73,0.002,0.023,,,0.0,,,,,,,0.6675,0.07697375
+189,LA,2010-06-15,Bay Desespere,Gulf,Louisianian Province,Y,0.004,24.75,0.018,0.016,,,0.014,,,,,,,0.92,0.06983125
+190,LA,2010-06-14,Lake Salvador,Gulf,Louisianian Province,Y,0.002,6.62,0.002,0.013,,,0.0,,,,,,,0.48,0.03654375
+191,FL,2010-06-02,Old Tampa Bay,Gulf,West Indian Province,Y,0.004,3.87,0.024,0.068,,,0.02,,,,,,,0.425,0.0835825
+193,CA,2010-07-01,Mission Bay,West,Californian Province,Y,0.0,2.94,0.013,0.025,,,0.013,,,,,,,0.26125,0.04718875
+194,FL,2010-06-15,Ochlockonee Bay,Gulf,Louisianian Province,Y,0.0,,0.027,0.009,,,0.027,,,,,,,0.49625,0.05009625
+195,FL,2010-06-16,Apalachee Bay,Gulf,Louisianian Province,Y,0.0,2.49,0.025,0.006,,,0.025,,,,,,,0.2975,0.01007875
+196,MI,2010-06-21,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.008,0.59,0.243,0.006,,,0.235,,,,,,,0.3525,0.0
+197,MI,2010-06-22,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.008,0.47,0.269,0.006,,,0.261,,,,,,,0.353125,0.0
+198,MI,2010-06-17,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.01,0.79,0.241,0.004,,,0.231,,,,,,,0.39875,0.0
+199,MI,2010-06-23,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.007,0.49,0.255,0.006,,,0.248,,,,,,,0.356875,0.0
+200,MI,2010-06-24,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,0.62,0.286,0.008,,,0.281,,,,,,,0.418875,0.003470375
+211,OH,2010-06-14,Lake Erie,Great Lakes,Great Lakes Province,Y,0.014,93.08,0.864,0.01,,,0.85,,,,,,,1.659,0.07838625
+212,OH,2010-06-22,Lake Erie,Great Lakes,Great Lakes Province,Y,0.022,7.66,1.104,0.012,,,1.082,,,,,,,1.415,0.019129375
+213,OH,2010-06-17,Lake Erie,Great Lakes,Great Lakes Province,Y,0.063,3.94,2.968,0.048,,,2.905,,,,,,,3.381,0.07889125
+214,LA,2010-06-24,Timbalier Bay,Gulf,Louisianian Province,Y,0.002,19.42746667,0.022,0.014,,,0.02,,,,,,,0.79125,0.072140875
+215,LA,2010-06-24,Timbalier Bay,Gulf,Louisianian Province,Y,0.001,20.5,0.022,0.013,,,0.021,,,,,,,0.74425,0.064448875
+247,NH,2010-06-29,Great Bay,Northeast,Acadian Province,Y,0.006,2.33,0.012,0.021,,,0.006,0.0,,,,,,0.26,0.043
+248,NH,2010-06-30,Hampton River/Hampton Harbor,Northeast,Acadian Province,Y,0.011,3.47,0.027,0.032,,,0.016,0.0,,,,,,0.265,0.049
+249,FL,2010-06-08,Anclote Anchorage,Gulf,Louisianian Province,Y,0.015,1.27,0.052,0.006,,,0.037,,,,,,,0.3725,0.008185
+250,FL,2010-06-02,Tampa Bay,Gulf,West Indian Province,Y,0.011,4.42,0.037,0.084,,,0.026,,,,,,,0.33625,0.09624125
+251,FL,2010-06-03,Hillsborough Bay,Gulf,West Indian Province,Y,0.004,7.69,0.024,0.055,,,0.02,,,,,,,0.5625,0.16950375
+252,FL,2010-06-04,Boca Ciega Bay,Gulf,West Indian Province,Y,0.002,5.94,0.036,0.01,,,0.034,,,,,,,0.39,0.03524375
+256,MI,2010-06-14,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,0.98,0.25,0.004,,,0.245,,,,,,,0.33625,0.0
+257,MI,2010-06-24,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,0.84,0.259,0.007,,,0.256,,,,,,,0.3985,0.004011875
+258,MI,2010-06-23,Lake Huron,Great Lakes,Great Lakes Province,Y,0.007,0.32,0.299,0.006,,,0.292,,,,,,,0.335625,0.0
+259,MI,2010-06-16,Lake Erie,Great Lakes,Great Lakes Province,Y,0.024,15.21,0.401,0.005,,,0.377,,,,,,,0.7225,0.06839375
+260,MI,2010-06-17,Lake Erie,Great Lakes,Great Lakes Province,Y,0.123,1.22,0.523,0.009,,,0.4,,,,,,,0.66625,0.0149825
+261,MI,2010-06-14,Lake Erie,Great Lakes,Great Lakes Province,Y,0.005,30.36,1.023,0.021,,,1.018,,,,,,,3.009,0.0761725
+262,MI,2010-06-15,Lake Erie,Great Lakes,Great Lakes Province,Y,0.007,19.45,1.549,0.005,,,1.542,,,,,,,2.055,0.0831675
+266,MI,2010-06-24,Lake Huron,Great Lakes,Great Lakes Province,Y,0.006,0.3,0.347,0.011,,,0.341,,,,,,,0.463,0.0
+267,MI,2010-06-21,Lake Huron,Great Lakes,Great Lakes Province,Y,0.009,0.25,0.32,0.007,,,0.311,,,,,,,0.378125,0.0
+268,MI,2010-06-25,Lake Huron,Great Lakes,Great Lakes Province,Y,0.006,0.32,0.332,0.012,,,0.326,,,,,,,0.453,0.0
+269,MI,2010-06-23,Lake Huron,Great Lakes,Great Lakes Province,Y,0.007,0.28,0.286,0.007,,,0.279,,,,,,,0.351875,0.0
+270,MI,2010-06-22,Lake Huron,Great Lakes,Great Lakes Province,Y,0.011,0.29,0.305,0.006,,,0.294,,,,,,,0.353125,0.0
+271,MI,2010-06-25,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,0.67,0.315,0.003,,,0.311,,,,,,,0.42875,0.003348875
+272,MI,2010-06-23,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,0.96,0.338,0.008,,,0.337,,,,,,,0.376875,0.0
+273,MI,2010-06-21,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,0.52,0.352,0.008,,,0.35,,,,,,,0.3925,0.0
+274,MI,2010-06-22,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,1.03,0.349,0.009,,,0.345,,,,,,,0.375625,0.0
+275,MI,2010-06-22,Lake Superior,Great Lakes,Great Lakes Province,Y,0.005,2.19,0.351,0.008,,,0.346,,,,,,,0.398125,0.0
+276,MI,2010-06-24,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,0.87,0.301,0.016,,,0.299,,,,,,,0.448,0.005658375
+277,MI,2010-06-21,Lake Superior,Great Lakes,Great Lakes Province,Y,0.003,0.63,0.351,0.008,,,0.348,,,,,,,0.380625,0.0
+278,FL,2010-06-21,Peace River,Gulf,West Indian Province,Y,0.041,13.04,0.041,0.003,,,0.0,,,,,,,1.0525,0.645046
+279,FL,2010-06-22,Tarpon Bay,Gulf,West Indian Province,Y,0.001,12.97,0.026,0.029,,,0.025,,,,,,,0.724375,0.083614375
+280,FL,2010-06-23,Charlotte Harbor,Gulf,West Indian Province,Y,0.0,3.98,0.024,0.067,,,0.024,,,,,,,0.393125,0.081200625
+281,FL,2010-06-21,Peace River,Gulf,West Indian Province,Y,0.0,5.39,0.023,0.246,,,0.023,,,,,,,0.56375,0.27603875
+282,FL,2010-06-23,Matlacha Pass,Gulf,West Indian Province,Y,0.0,2.85,0.02,0.007,,,0.02,,,,,,,0.726875,0.022869375
+283,FL,2010-06-22,San Carlos Bay,Gulf,West Indian Province,Y,0.0,2.54,0.029,0.019,,,0.029,,,,,,,0.289375,0.028940625
+284,FL,2010-06-23,Apalachicola River,Gulf,Louisianian Province,Y,0.01,3.55,0.405,0.034,,,0.395,,,,,,,0.6145,0.02549125
+285,FL,2010-06-22,St. George Sound,Gulf,Louisianian Province,Y,0.0,3.47,0.015,0.004,,,0.015,,,,,,,0.275625,0.014610875
+286,FL,2010-06-22,St. George Sound,Gulf,Louisianian Province,Y,0.0,1.1,0.015,0.006,,,0.015,,,,,,,0.35475,0.012084375
+287,FL,2010-06-23,Apalachicola Bay,Gulf,Louisianian Province,Y,0.004,20.39,0.018,0.049,,,0.014,,,,,,,0.513625,0.048562375
+288,FL,2010-06-23,Apalachicola Bay,Gulf,Louisianian Province,Y,0.005,10.41,0.026,0.008,,,0.021,,,,,,,0.477,0.0370935
+290,OH,2010-06-07,Lake Erie,Great Lakes,Great Lakes Province,Y,0.006,52.48,2.188,0.009,,,2.182,,,,,,,2.934,0.11570625
+322,LA,2010-06-22,Timbalier Bay,Gulf,Louisianian Province,Y,0.0,18.06,0.019,0.013,,,0.019,,,,,,,0.695625,0.076263125
+332,NY,2010-07-10,Lake Erie,Great Lakes,Great Lakes Province,Y,0.009,6.59,0.159,0.004,,,0.15,,,,,,,0.4175,0.00624
+333,NY,2010-07-11,Lake Erie,Great Lakes,Great Lakes Province,Y,0.014,3.72,0.17,0.003,,,0.156,,,,,,,0.38625,0.0056875
+335,NY,2010-07-08,Lake Erie,Great Lakes,Great Lakes Province,Y,0.005,6.68,0.157,0.004,,,0.152,,,,,,,0.53875,0.00881125
+336,NC,2010-06-29,Pamlico Sound,Southeast,Carolinian Province,Y,0.002,1.5,0.012,0.01,,,0.01,,,,,,,0.265375,0.027395
+337,NC,2010-07-07,Neuse River,Southeast,Carolinian Province,Y,0.0,9.47984,0.012,0.064,,,0.012,,,,,,,0.485,0.09164625
+338,NC,2010-06-23,Pungo River,Southeast,Carolinian Province,Y,0.006,19.9,0.006,0.021,,,0.0,,,,,,,0.916875,0.052929375
+339,NC,2010-06-28,Alligator River,Southeast,Carolinian Province,Y,0.031,4.04,0.124,0.021,,,0.093,,,,,,,0.7935,0.02490475
+340,NC,2010-06-30,Pamlico Sound,Southeast,Carolinian Province,Y,0.003,2.55,0.01,0.008,,,0.007,,,,,,,0.3255,0.027556
+341,NC,2010-07-07,Pamlico Sound,Southeast,Carolinian Province,Y,0.006,11.05504,0.02,0.045,,,0.014,,,,,,,0.645,0.083615
+342,NC,2010-07-07,Pamlico Sound,Southeast,Carolinian Province,Y,0.001,4.93,0.015,0.011,,,0.014,,,,,,,0.3975,0.0344625
+343,NC,2010-06-21,Bull Bay,Southeast,Carolinian Province,Y,0.004,7.27,0.004,0.013,,,0.0,,,,,,,0.388125,0.025033125
+344,NC,2010-07-07,Pamlico Sound,Southeast,Carolinian Province,Y,0.002,7.76,0.015,0.008,,,0.013,,,,,,,0.545,0.0513
+345,NC,2010-06-28,Core Sound,Southeast,Carolinian Province,Y,0.01,4.13848,0.028,0.042,,,0.018,,,,,,,0.364,0.045927125
+352,CA,2010-06-29,Mission Bay,West,Californian Province,Y,0.017,3.69,0.03,0.024,,,0.013,,,,,,,0.240375,0.038845125
+386,FL,2010-06-03,Hillsborough Bay,Gulf,West Indian Province,Y,0.003,2.68,0.019,0.063,,,0.016,,,,,,,0.4625,0.1696225
+387,MI,2010-06-25,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.004,0.7,0.279,0.006,,,0.275,,,,,,,0.42125,0.00401
+388,OH,2010-06-24,Lake Erie,Great Lakes,Great Lakes Province,Y,0.007,133.18,3.267,0.017,,,3.26,,,,,,,4.419,0.253108125
+390,LA,2010-07-08,Lake Pontchartrain,Gulf,Louisianian Province,Y,0.005,5.99,0.005,0.082,,,0.0,,,,,,,0.365,0.10249625
+391,ME,2010-06-29,New Meadows River,Northeast,Acadian Province,Y,0.009,4.81,0.019,0.022,,,0.01,,,,,,,0.299,0.0456955
+392,ME,2010-08-19,Casco Bay,Northeast,Acadian Province,Y,0.002,1.01,0.018,0.011,,,0.016,,,,,,,0.1875,0.02692125
+393,ME,2010-07-08,Casco Bay,Northeast,Acadian Province,Y,0.0,1.08,0.02,0.016,,,0.02,,,,,,,0.13875,0.03761125
+394,ME,2010-07-01,Casco Bay,Northeast,Acadian Province,Y,0.002,0.95,0.015,0.009,,,0.013,,,,,,,0.15375,0.01475375
+395,ME,2010-07-01,Casco Bay,Northeast,Acadian Province,Y,0.002,1.14,0.015,0.006,,,0.013,,,,,,,0.17375,0.01583625
+396,ME,2010-06-28,Maquoit Bay,Northeast,Acadian Province,Y,0.001,4.2,0.017,0.026,,,0.016,,,,,,,0.246625,0.032054375
+397,ME,2010-07-15,Wells Embayment,Northeast,Acadian Province,Y,0.004,1.84,0.016,0.009,,,0.012,,,,,,,0.2725,0.02547
+398,ME,2010-07-29,Muscongus Bay,Northeast,Acadian Province,Y,0.005,21.05,0.018,0.015,,,0.013,,,,,,,0.1825,0.0212075
+399,ME,2010-07-14,Muscle Ridge Channel/Owls Head,Northeast,Acadian Province,Y,0.0,4.6,0.011,0.014,,,0.011,,,,,,,0.2025,0.02535125
+400,GA,2010-07-12,St. Simeon Sound,Southeast,Carolinian Province,Y,0.009,19.33,0.022,0.042,,,0.013,,,,,,,0.49375,0.1344575
+401,GA,2010-07-15,Turtle River,Southeast,Carolinian Province,Y,0.042,8.85,0.161,0.089,,,0.119,,,,,,,0.75375,0.180485
+402,LA,2010-06-28,Lake De Cade,Gulf,Louisianian Province,Y,0.009,7.36,0.009,0.098,,,0.0,,,,,,,0.645625,0.111469875
+403,LA,2010-07-11,Blind River,Gulf,Louisianian Province,Y,0.077,3.33,0.118,0.132,,,0.041,,,,,,,0.6575,0.20256375
+404,LA,2010-07-13,Lake Pontchartrain,Gulf,Louisianian Province,Y,0.004,4.95,0.004,0.097,,,0.0,,,,,,,0.34625,0.11968125
+405,LA,2010-07-13,Lake Pontchartrain,Gulf,Louisianian Province,Y,0.005,6.28,0.005,0.087,,,0.0,,,,,,,0.39125,0.11454375
+406,LA,2010-07-14,Lake Pontchartrain,Gulf,Louisianian Province,Y,0.003,5.13,0.003,0.09,,,0.0,,,,,,,0.365,0.112485
+407,LA,2010-07-08,Lake Pontchartrain,Gulf,Louisianian Province,Y,0.009,2.19,0.009,0.086,,,0.0,,,,,,,0.36625,0.0929225
+417,WA,2010-07-09,Puget Sound,West,Columbian Province,Y,0.001,6.10032,0.009,0.011,,,0.008,,,,,,,0.23,0.040465
+418,WA,2010-07-06,Carr Inlet,West,Columbian Province,Y,0.007,1.43,0.018,0.026,,,0.011,,,,,,,0.21,0.03783
+419,WA,2010-07-08,Colvos/Dalco Passage,West,Columbian Province,Y,0.031,4.24,0.215,0.061,,,0.184,,,,,,,0.3825,0.06229875
+420,WA,2010-07-09,Port Orchard,West,Columbian Province,Y,0.001,22.2,0.009,0.017,,,0.008,,,,,,,0.3475,0.06573875
+422,WA,2010-07-10,Puget Sound,West,Columbian Province,Y,0.001,6.26,0.009,0.01,,,0.008,,,,,,,0.24125,0.04183
+423,MI,2010-07-15,Lake Huron,Great Lakes,Great Lakes Province,Y,0.008,0.31,0.264,0.005,,,0.256,,,,,,,0.39,0.0026325
+424,MI,2010-07-12,Lake Huron,Great Lakes,Great Lakes Province,Y,0.015,1.37,0.08,0.005,,,0.065,,,,,,,0.29875,0.00451625
+425,MI,2010-07-16,Lake Huron,Great Lakes,Great Lakes Province,Y,0.012,0.64,0.135,0.007,,,0.123,,,,,,,0.3175,0.00555625
+426,MI,2010-07-14,Lake Huron,Great Lakes,Great Lakes Province,Y,0.007,0.33,0.232,0.005,,,0.225,,,,,,,0.3775,0.00348875
+427,MI,2010-07-13,Lake Huron,Great Lakes,Great Lakes Province,Y,0.009,0.52,0.009,0.016,,,0.0,,,,,,,0.1675,0.00636875
+428,MI,2010-06-24,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.012,3.26,0.173,0.017,,,0.161,,,,,,,0.79375,0.03511625
+429,MI,2010-07-15,Lake Huron,Great Lakes,Great Lakes Province,Y,0.006,0.32578,0.263,0.005,,,0.257,,,,,,,0.36625,0.00223375
+431,MI,2010-06-26,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.007,0.81,0.28,0.015,,,0.273,,,,,,,0.42625,0.00433275
+432,MI,2010-06-26,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,0.83,0.279,0.015,,,0.274,,,,,,,0.4305,0.004151
+433,MI,2010-07-07,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,0.78,0.289,0.005,,,0.284,,,,,,,0.4375,0.00316375
+434,MI,2010-07-07,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.008,0.91,0.293,0.005,,,0.285,,,,,,,0.4725,0.00393125
+436,MI,2010-06-25,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.011,0.74,0.304,0.003,,,0.293,,,,,,,0.424,0.00356525
+437,MI,2010-06-25,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.004,1.12,0.286,0.003,,,0.282,,,,,,,0.433375,0.005232875
+438,MI,2010-07-07,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.009,0.9,0.299,0.005,,,0.29,,,,,,,0.465,0.0036925
+447,MI,2010-07-11,Lake Huron,Great Lakes,Great Lakes Province,Y,0.009,2.52,0.17,0.005,,,0.161,,,,,,,0.39375,0.00453625
+448,MI,2010-07-08,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.01,0.88,0.274,0.005,,,0.264,,,,,,,0.44875,0.00474875
+449,MI,2010-07-01,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,0.56,0.339,0.006,,,0.335,,,,,,,0.4375,0.00291625
+450,MI,2010-06-16,Lake Erie,Great Lakes,Great Lakes Province,Y,0.067,2.86,0.423,0.015,,,0.356,,,,,,,0.5925,0.045025
+451,MI,2010-06-30,Lake Huron,Great Lakes,Great Lakes Province,Y,0.008,0.95,0.163,0.006,,,0.155,,,,,,,0.353875,0.00704925
+452,MI,2010-07-09,Lake Huron,Great Lakes,Great Lakes Province,Y,0.01,0.3,0.272,0.005,,,0.262,,,,,,,0.38125,0.00202375
+453,MI,2010-07-01,Lake Huron,Great Lakes,Great Lakes Province,Y,0.009,1.11,0.162,0.004,,,0.153,,,,,,,0.3475,0.00485625
+454,MI,2010-06-10,Lake Huron,Great Lakes,Great Lakes Province,Y,0.003,0.64,0.283,0.005,,,0.28,,,,,,,0.3475,0.0051175
+455,MI,2010-07-09,Lake Huron,Great Lakes,Great Lakes Province,Y,0.01,0.32,0.268,0.005,,,0.258,,,,,,,0.37375,0.0
+456,MI,2010-07-16,Lake Huron,Great Lakes,Great Lakes Province,Y,0.009,1.71,0.225,0.005,,,0.216,,,,,,,0.43375,0.00761125
+457,MI,2010-07-10,Lake Huron,Great Lakes,Great Lakes Province,Y,0.006,4.48,0.186,0.006,,,0.18,,,,,,,0.475,0.009845
+458,MI,2010-07-02,Lake Huron,Great Lakes,Great Lakes Province,Y,0.013,1.12,0.185,0.004,,,0.172,,,,,,,0.3475,0.00714125
+459,MI,2010-07-15,Lake Huron,Great Lakes,Great Lakes Province,Y,0.01,3.35,0.151,0.005,,,0.141,,,,,,,0.3725,0.00612125
+460,MI,2010-07-08,Lake Huron,Great Lakes,Great Lakes Province,Y,0.004,0.71,0.26,0.005,,,0.256,,,,,,,0.38,0.00342375
+461,MI,2010-07-09,Lake Huron,Great Lakes,Great Lakes Province,Y,0.011,0.29,0.257,0.004,,,0.246,,,,,,,0.36125,0.0021325
+462,MI,2010-06-11,Lake Huron,Great Lakes,Great Lakes Province,Y,0.011,1.65,0.216,0.003,,,0.205,,,,,,,0.3025,0.00330125
+463,MI,2010-07-13,Lake Huron,Great Lakes,Great Lakes Province,Y,0.003,10.49,0.19,0.005,,,0.187,,,,,,,0.8425,0.01527625
+464,MI,2010-07-10,Lake Huron,Great Lakes,Great Lakes Province,Y,0.009,0.94,0.21,0.006,,,0.201,,,,,,,0.365,0.0038375
+465,MI,2010-07-14,Lake Huron,Great Lakes,Great Lakes Province,Y,0.004,0.92,0.234,0.004,,,0.23,,,,,,,0.39625,0.00273125
+466,MI,2010-07-08,Lake Huron,Great Lakes,Great Lakes Province,Y,0.01,0.53,0.253,0.005,,,0.243,,,,,,,0.3875,0.0029725
+467,MI,2010-07-07,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.007,0.5,0.221,0.003,,,0.214,,,,,,,0.38125,0.0036425
+468,MI,2010-06-08,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,0.42,0.259,0.004,,,0.254,,,,,,,0.33625,0.005025
+469,MI,2010-07-06,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.01,0.76,0.147,0.004,,,0.137,,,,,,,0.32125,0.00434875
+471,MI,2010-07-07,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.007,0.3,0.227,0.006,,,0.22,,,,,,,0.37125,0.00338
+472,MI,2010-06-07,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.006,0.23,0.188,0.003,,,0.182,,,,,,,0.27875,0.00422875
+473,MI,2010-06-09,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.012,0.42,0.165,0.006,,,0.153,,,,,,,0.34,0.00656125
+485,MI,2010-06-04,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,0.23,0.218,0.004,,,0.215,,,,,,,0.29375,0.00291125
+486,MI,2010-07-07,Lake Superior,Great Lakes,Great Lakes Province,Y,0.005,0.34,0.328,0.006,,,0.323,,,,,,,0.4225,0.00278625
+487,MI,2010-07-07,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,0.34,0.332,0.005,,,0.33,,,,,,,0.41625,0.00278375
+488,MI,2010-06-28,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,0.99,0.308,0.003,,,0.304,,,,,,,0.408125,0.00430925
+489,MI,2010-06-27,Lake Superior,Great Lakes,Great Lakes Province,Y,0.003,1.39,0.322,0.002,,,0.319,,,,,,,0.438125,0.006830375
+490,MI,2010-06-28,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,0.45,0.338,0.004,,,0.334,,,,,,,0.423875,0.00326925
+494,MI,2010-06-15,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,0.89,0.346,0.005,,,0.345,,,,,,,0.4025,0.00249875
+495,CA,2010-07-13,Newport Bay,West,Californian Province,Y,0.026,2.43,0.041,0.028,,,0.015,,,,,,,0.21125,0.0409975
+496,CA,2010-07-14,Long Beach Harbor,West,Californian Province,Y,0.0,2.48,0.011,0.01,,,0.011,,,,,,,0.26875,0.03269
+497,CA,2010-07-14,Long Beach Harbor,West,Californian Province,Y,0.0,3.34,0.011,0.013,,,0.011,,,,,,,0.365,0.04183125
+498,GA,2010-07-20,Mud River,Southeast,Carolinian Province,Y,0.009,21.05,0.075,0.069,,,0.066,,,,,,,0.6825,0.1312875
+499,CA,2010-07-15,Los Angeles Harbor,West,Californian Province,Y,0.0,4.4,0.01,0.016,,,0.01,,,,,,,0.25125,0.03651125
+500,CA,2010-07-15,Los Angeles Harbor,West,Californian Province,Y,0.0,3.68,0.01,0.007,,,0.01,,,,,,,0.30375,0.03835
+501,CA,2010-07-13,Dana Point Harbor,West,Californian Province,Y,0.016,2.21,0.105,0.026,,,0.089,,,,,,,0.24,0.03525875
+502,CA,2010-07-15,Los Angeles Harbor,West,Californian Province,Y,0.001,3.58,0.011,0.011,,,0.01,,,,,,,0.24125,0.03186625
+503,CA,2010-07-14,Long Beach Harbor,West,Californian Province,Y,0.0,2.65,0.012,0.014,,,0.012,,,,,,,0.28125,0.03466625
+504,CA,2010-07-14,Long Beach Harbor,West,Californian Province,Y,0.0,2.05,0.012,0.01,,,0.012,,,,,,,0.255,0.02892875
+506,NH,2010-07-07,Little Bay,Northeast,Acadian Province,Y,0.016,1.58,0.053,0.026,,,0.037,0.0,,,,,,0.444,0.031
+511,NH,2010-07-12,Little Harbor,Northeast,Acadian Province,Y,0.028,1.8,0.079,0.029,,,0.051,0.0,,,,,,0.556,0.034
+512,NH,2010-07-19,Great Bay,Northeast,Acadian Province,Y,0.012,5.39,0.038,0.018,,,0.026,0.0,,,,,,0.951,0.048
+513,NH,2010-07-13,Piscataqua River,Northeast,Acadian Province,Y,0.007,4.57,0.086,0.023,,,0.079,0.0,,,,,,0.492,0.025
+514,NH,2010-07-08,Little Bay,Northeast,Acadian Province,Y,0.0,1.85,0.011,0.028,,,0.006,0.0,,,,,,0.295,0.045
+515,NH,2010-07-15,Piscataqua River,Northeast,Acadian Province,Y,0.017,1.43,0.179,0.021,,,0.162,0.006,,,,,,0.58,0.033
+516,WA,2010-07-13,Hood Canal,West,Columbian Province,Y,0.004,0.85,0.01,0.013,,,0.006,,,,,,,0.1575,0.02451125
+517,PA,2010-07-12,Lake Erie,Great Lakes,Great Lakes Province,Y,0.008,2.66,0.189,0.004,,,0.181,,,,,,,0.38625,0.006725
+518,PA,2010-07-13,Lake Erie,Great Lakes,Great Lakes Province,Y,0.007,2.79,0.114,0.004,,,0.107,,,,,,,0.3025,0.00299125
+519,PA,2010-07-12,Lake Erie,Great Lakes,Great Lakes Province,Y,0.008,2.71,0.194,0.004,,,0.186,,,,,,,0.3825,0.00439625
+520,PA,2010-07-13,Lake Erie,Great Lakes,Great Lakes Province,Y,0.007,1.37,0.167,0.004,,,0.16,,,,,,,0.36125,0.004505
+521,CT,2010-07-15,Long Island Sound,Northeast,Virginian Province,Y,0.0,3.9,0.004,0.019,,0.0,0.004,0.004,,,,,,0.234,0.046
+522,CT,2010-07-14,Long Island Sound,Northeast,Virginian Province,Y,0.0,6.8,0.004,0.038,,0.0,0.004,0.004,,,,,,0.248,0.07
+538,WI,2010-07-07,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.0,0.0,0.307,0.0,,,0.307,,,,,,0.0,0.307,0.0024
+539,WI,2010-07-06,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.0,0.0,0.294,0.0,,,0.294,,,,,,0.19,0.484,0.0027
+540,WI,2010-07-01,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.0,0.5,0.251,,,,0.251,,,,,,0.0,0.251,0.0028
+541,WI,2010-07-06,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.017,0.0,0.345,0.0,,,0.328,,,,,,0.17,0.498,0.0027
+542,WI,2010-07-01,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.0,0.0,0.259,,,,0.259,,,,,,0.0,0.259,0.0025
+544,WI,2010-06-30,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.0,0.6,0.279,0.0,,,0.279,,,,,,0.15,0.429,0.0069
+545,FL,2010-06-24,Gasparilla Bay,Gulf,West Indian Province,Y,0.005,15.06,0.035,0.022,,,0.03,,,,,,,0.713125,0.049043125
+546,FL,2010-06-24,Pine Island Sound,Gulf,West Indian Province,Y,0.0,4.24,0.047,0.009,,,0.047,,,,,,,0.348125,0.029493125
+547,FL,2010-06-24,St. Joseph Bay,Gulf,Louisianian Province,Y,0.0,2.5,0.017,0.026,,,0.017,,,,,,,0.261875,0.017600375
+551,FL,2010-06-25,West Bay (St. Andrew),Gulf,Louisianian Province,Y,0.0,2.13,0.013,0.005,,,0.013,,,,,,,0.273375,0.01146275
+552,FL,2010-06-25,St. Andrew Bay,Gulf,Louisianian Province,Y,0.0,1.51,0.014,0.004,,,0.014,,,,,,,0.2275,0.009526125
+553,FL,2010-06-24,St. George Sound,Gulf,Louisianian Province,Y,0.003,8.0,0.01,0.055,,,0.007,,,,,,,0.435625,0.04783375
+554,FL,2010-06-30,Indian River Lagoon,Southeast,West Indian Province,Y,0.002,4.02,0.012,0.021,,,0.01,,,,,,,0.297125,0.032110625
+555,FL,2010-06-28,Banana River,Southeast,Carolinian Province,Y,0.007,49.58,0.021,0.043,,,0.014,,,,,,,1.188,0.0471385
+556,FL,2010-06-30,Indian River Lagoon,Southeast,West Indian Province,Y,0.073,4.04,0.081,0.04,,,0.008,,,,,,,0.5855,0.08838525
+557,FL,2010-06-28,Newfound Harbor,Southeast,Carolinian Province,Y,0.004,13.99,0.019,0.052,,,0.015,,,,,,,1.565,0.065768625
+558,FL,2010-07-01,Indian River Lagoon,Southeast,Carolinian Province,Y,0.002,16.16,0.011,0.01,,,0.009,,,,,,,0.794875,0.101277625
+559,FL,2010-06-28,Indian River Lagoon,Southeast,Carolinian Province,Y,0.004,12.07,0.018,0.057,,,0.014,,,,,,,0.848125,0.095840375
+567,FL,2010-07-19,Buttonwood Sound,Gulf,West Indian Province,Y,0.014,0.6,0.026,0.005,,,0.012,,,,,,,0.77625,0.00443875
+568,FL,2010-07-13,The Narrows,Gulf,Louisianian Province,Y,0.0,3.85,0.013,0.008,,,0.013,,,,,,,0.36125,0.02040375
+571,FL,2010-07-12,Whitney River,Gulf,West Indian Province,Y,0.0,18.08,0.01,0.042,,,0.01,,,,,,,0.70375,0.091095
+572,FL,2010-07-13,Whitewater Bay,Gulf,West Indian Province,Y,0.004,2.25,0.011,0.012,,,0.007,,,,,,,0.65875,0.01457125
+573,FL,2010-07-12,Chokoloskee Bay,Gulf,West Indian Province,Y,0.0,5.32,0.009,0.022,,,0.009,,,,,,,0.58875,0.03625125
+575,FL,2010-07-20,Little Blackwater Sound,Gulf,West Indian Province,Y,0.07,0.81,0.095,0.006,,,0.025,,,,,,,0.8125,0.00427
+576,FL,2010-07-19,Joe Bay,Gulf,West Indian Province,Y,0.042,1.23,0.075,0.007,,,0.033,,,,,,,0.97,0.0061075
+577,FL,2010-07-15,Florida Bay,Gulf,West Indian Province,Y,0.008,0.81,0.023,0.013,,,0.015,,,,,,,0.5075,0.00853375
+578,FL,2010-07-21,Blackwater Sound,Gulf,West Indian Province,Y,0.114,1.59,0.296,0.007,,,0.182,,,,,,,0.93,0.00720125
+579,FL,2010-07-20,Little Blackwater Sound,Gulf,West Indian Province,Y,0.062,1.19,0.087,0.007,,,0.025,,,,,,,0.8425,0.00524625
+580,FL,2010-07-15,Florida Bay,Gulf,West Indian Province,Y,0.0,5.08,0.014,0.01,,,0.014,,,,,,,0.4275,0.02228
+584,FL,2010-07-21,Little Card Sound,Gulf,West Indian Province,Y,0.006,0.59,0.175,0.004,,,0.169,,,,,,,0.4675,0.00310375
+585,FL,2010-07-21,Little Card Sound,Gulf,West Indian Province,Y,0.001,0.62,0.134,0.004,,,0.133,,,,,,,0.49,0.00250625
+586,FL,2010-07-20,Barnes Sound,Gulf,West Indian Province,Y,0.014,0.53,0.043,0.007,,,0.029,,,,,,,0.5925,0.00353625
+587,VA,2010-07-13,Warwick River,Northeast,Virginian Province,Y,0.004,14.8,0.004,0.03,3.1,0.001,0.001,0.0,0.284,0.0493,0.216,0.033,,0.5,0.0823
+588,VA,2010-07-13,Lower James River,Northeast,Virginian Province,Y,0.025,12.2,0.03,0.043,3.2,0.005,0.005,0.0,0.272,0.0353,0.194,0.045,,0.466,0.0803
+589,FL,2010-07-15,Choctawhatchee Bay,Gulf,Louisianian Province,Y,0.001,1.45,0.017,0.009,,,0.016,,,,,,,0.29,0.00743625
+590,FL,2010-07-15,Choctawhatchee Bay,Gulf,Louisianian Province,Y,0.0,8.46,0.011,0.015,,,0.011,,,,,,,0.34625,0.0244
+591,LA,2010-07-19,Lake Borgne,Gulf,Louisianian Province,Y,0.005,11.09,0.005,0.064,,,0.0,,,,,,,0.44625,0.08766625
+592,LA,2010-07-19,Lake Borgne,Gulf,Louisianian Province,Y,0.002,13.4,0.01,0.055,,,0.008,,,,,,,0.52625,0.087715
+593,LA,2010-07-20,Lake Borgne,Gulf,Louisianian Province,Y,0.003,6.01,0.003,0.072,,,0.0,,,,,,,0.42875,0.09431625
+594,LA,2010-07-18,Lake Borgne,Gulf,Louisianian Province,Y,0.003,8.47,0.003,0.062,,,0.0,,,,,,,0.4575,0.09979125
+595,LA,2010-07-12,Lake Maurepas,Gulf,Louisianian Province,Y,0.006,9.51,0.006,0.098,,,0.0,,,,,,,0.46125,0.132235
+596,FL,2010-07-12,Pensacola Bay,Gulf,Louisianian Province,Y,0.0,2.69,0.017,0.009,,,0.017,,,,,,,0.35375,0.01660125
+597,FL,2010-07-12,Pensacola Bay,Gulf,Louisianian Province,Y,0.002,2.86,0.018,0.008,,,0.016,,,,,,,0.3,0.0169225
+598,FL,2010-07-13,Santa Rosa Sound,Gulf,Louisianian Province,Y,0.0,6.33,0.014,0.012,,,0.014,,,,,,,0.4475,0.02879875
+599,FL,2010-07-13,Santa Rosa Sound,Gulf,Louisianian Province,Y,0.001,6.64,0.018,0.01,,,0.017,,,,,,,0.36,0.0226975
+600,FL,2010-07-14,East Bay,Gulf,Louisianian Province,Y,0.002,5.87,0.032,0.01,,,0.03,,,,,,,0.33875,0.0164
+601,FL,2010-07-14,East Bay,Gulf,Louisianian Province,Y,0.001,10.69,0.016,0.01,,,0.015,,,,,,,0.4075,0.021015
+603,FL,2010-07-14,Escambia Bay,Gulf,Louisianian Province,Y,0.001,,0.061,0.015,,,0.06,,,,,,,0.495,0.02319375
+616,OR,2010-06-23,Coos Bay,West,Columbian Province,Y,0.004,2.76376,0.226,0.049,,,0.222,,,,,,,0.436875,0.062795625
+617,OR,2010-06-22,Coquille River,West,Columbian Province,Y,0.0,6.44,0.421,0.073,,,0.421,,,,,,,0.509375,0.067675625
+618,OR,2010-07-08,Alsea Bay,West,Columbian Province,Y,0.02,6.64,0.34,0.07,,,0.32,,,,,,,0.50125,0.07281
+619,OR,2010-07-06,Siuslaw River,West,Columbian Province,Y,0.004,11.58,0.01,0.015,,,0.006,,,,,,,0.2675,0.03471
+620,OR,2010-07-09,Yaquina River,West,Columbian Province,Y,0.032,3.34,0.103,0.037,,,0.071,,,,,,,0.37875,0.06652
+621,WA,2010-07-13,Dabob Bay,West,Columbian Province,Y,0.003,1.76,0.01,0.015,,,0.007,,,,,,,0.14375,0.0246675
+622,WA,2010-07-14,Hood Canal,West,Columbian Province,Y,0.0,0.84,0.0,0.013,,,0.0,,,,,,,0.1325,0.021105
+623,WA,2010-07-15,Useless Bay,West,Columbian Province,Y,0.001,3.76,0.036,0.023,,,0.035,,,,,,,0.24625,0.04569375
+624,WA,2010-07-07,Puget Sound,West,Columbian Province,Y,0.011,17.9,0.023,0.009,,,0.012,,,,,,,0.35625,0.06113875
+625,WA,2010-06-09,Columbia River,West,Columbian Province,Y,0.006,7.62,0.203,0.031,,,0.197,,,,,,,0.3,0.0684
+626,OR,2010-06-08,Columbia River,West,Columbian Province,Y,0.006,7.79008,0.195,0.03,,,0.189,,,,,,,0.31,0.05351625
+627,WA,2010-07-14,Baker Bay,West,Columbian Province,Y,0.086,1.62,0.221,0.034,,,0.135,,,,,,,0.3875,0.069545
+628,OR,2010-06-07,Columbia River,West,Columbian Province,Y,0.003,8.91,0.191,0.029,,,0.188,,,,,,,0.30125,0.050585
+629,GA,2010-07-27,Medway River,Southeast,Carolinian Province,Y,0.0,11.31,0.025,0.058,,,0.025,,,,,,,0.5575,0.09526625
+630,NC,2010-07-20,New River,Southeast,Carolinian Province,Y,0.003,10.72,0.028,0.012,,,0.025,,,,,,,0.58375,0.0816075
+631,GA,2010-07-28,Bear River,Southeast,Carolinian Province,Y,0.006,17.87,0.016,0.039,,,0.01,,,,,,,0.6175,0.096125
+634,OH,2010-06-14,Lake Erie,Great Lakes,Great Lakes Province,Y,0.01,4.97,0.571,0.004,,,0.561,,,,,,,0.92125,0.01563
+635,OH,2010-07-07,Lake Erie,Great Lakes,Great Lakes Province,Y,0.007,2.3,0.392,0.004,,,0.385,,,,,,,0.61875,0.00879375
+636,FL,2010-06-29,Indian River Lagoon,Southeast,Carolinian Province,Y,0.034,6.58,0.043,0.008,,,0.009,,,,,,,1.09125,0.028263375
+637,FL,2010-06-29,Indian River Lagoon,Southeast,Carolinian Province,Y,0.005,11.71,0.012,0.008,,,0.007,,,,,,,1.08625,0.03685825
+638,FL,2010-06-29,Mosquito Lagoon,Southeast,Carolinian Province,Y,0.016,12.03,0.026,0.034,,,0.01,,,,,,,0.72925,0.07406925
+639,VA,2010-07-08,Back Bay,Northeast,Carolinian Province,Y,0.009,19.4,0.009,0.003,1.5,0.002,0.002,0.001,0.877,0.0103,0.582,0.008,,1.459,0.0183
+640,NC,2010-06-21,Albermarle Sound,Southeast,Carolinian Province,Y,0.004,10.02,0.004,0.009,,,0.0,,,,,,,0.460625,0.026851875
+641,OH,2010-07-22,Lake Erie,Great Lakes,Great Lakes Province,Y,0.002,12.12,0.483,0.006,,,0.481,,,,,,,0.865,0.02337625
+642,NC,2010-07-14,Jarrett Bay,Southeast,Carolinian Province,Y,0.001,8.39,0.014,0.018,,,0.013,,,,,,,0.5075,0.0381025
+643,OH,2010-07-20,Lake Erie,Great Lakes,Great Lakes Province,Y,0.043,16.11,0.2,0.008,,,0.157,,,,,,,0.56625,0.02442625
+644,NC,2010-07-28,Newport River,Southeast,Carolinian Province,Y,0.015,2.35,0.049,0.01,,,0.034,,,,,,,0.48875,0.03009
+645,OH,2010-06-09,Lake Erie,Great Lakes,Great Lakes Province,Y,0.034,3.82,0.496,0.005,,,0.462,,,,,,,0.68375,0.01499
+646,OH,2010-07-07,Lake Erie,Great Lakes,Great Lakes Province,Y,0.005,2.63,0.298,0.004,,,0.293,,,,,,,0.53,0.00967875
+647,NC,2010-07-14,South River,Southeast,Carolinian Province,Y,0.001,14.98,0.001,0.094,,,0.0,,,,,,,0.6275,0.15157875
+649,MI,2010-07-09,Lake Huron,Great Lakes,Great Lakes Province,Y,0.012,0.42,0.247,0.006,,,0.235,,,,,,,0.37,0.00229
+650,MI,2010-07-14,Lake Huron,Great Lakes,Great Lakes Province,Y,0.004,1.37,0.229,0.004,,,0.225,,,,,,,0.395,0.003675
+651,MI,2010-07-15,Lake Huron,Great Lakes,Great Lakes Province,Y,0.006,2.51,0.006,0.006,,,0.0,,,,,,,0.30125,0.00988375
+652,MI,2010-07-01,Lake Huron,Great Lakes,Great Lakes Province,Y,0.006,0.63,0.264,0.005,,,0.258,,,,,,,0.395,0.003245
+653,ME,2010-07-13,Muscongus Bay,Northeast,Acadian Province,Y,0.0,2.08,0.009,0.016,,,0.009,,,,,,,0.24875,0.02475625
+654,MI,2010-07-21,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,1.09,0.257,0.007,,,0.255,,,,,,,0.41375,0.00302375
+655,MI,2010-07-20,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.004,5.31,0.237,0.006,,,0.233,,,,,,,0.4875,0.007275
+656,MI,2010-07-21,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,0.58,0.291,0.004,,,0.286,,,,,,,0.45875,0.00249125
+662,WA,2010-07-13,Hood Canal,West,Columbian Province,Y,0.003,0.53,0.01,0.014,,,0.007,,,,,,,0.12375,0.02284125
+663,OH,2010-06-14,Lake Erie,Great Lakes,Great Lakes Province,Y,0.06,2.81,0.68,0.005,,,0.62,,,,,,,0.79625,0.012205
+687,ME,2010-08-29,Luckse Sound,Northeast,Acadian Province,Y,0.025,2.66,0.042,0.027,,,0.017,,,,,,,0.23625,0.0447875
+688,ME,2010-08-30,Broad Sound,Northeast,Acadian Province,Y,0.007,2.66,0.016,0.023,,,0.009,,,,,,,0.18875,0.03552375
+689,ME,2010-08-29,Cousins Island Sound,Northeast,Acadian Province,Y,0.005,3.91,0.011,0.031,,,0.006,,,,,,,0.215,0.04924
+690,ME,2010-08-30,Casco Bay,Northeast,Acadian Province,Y,0.005,2.21,0.016,0.02,,,0.011,,,,,,,0.19,0.03161
+691,MA,2010-07-09,Boston Inner Harbor,Northeast,Acadian Province,Y,0.056,5.2,0.098,0.022,,,0.042,,,,,,,0.3125,0.03638125
+692,MA,2010-07-08,Plum Island Sound,Northeast,Acadian Province,Y,0.001,3.18,0.019,0.021,,,0.018,,,,,,,0.23,0.03525375
+693,MA,2010-07-15,Kingston Bay,Northeast,Acadian Province,Y,0.0,4.95,0.011,0.009,,,0.011,,,,,,,0.24875,0.02278
+694,MA,2010-07-08,Gloucester Harbor,Northeast,Acadian Province,Y,0.0,1.26,0.018,0.009,,,0.018,,,,,,,0.155,0.0187525
+695,MA,2010-07-08,Salem Sound,Northeast,Acadian Province,Y,0.0,3.31,0.018,0.007,,,0.018,,,,,,,0.19375,0.01972125
+696,MA,2010-07-15,Plymouth Bay,Northeast,Acadian Province,Y,0.0,4.52,0.011,0.011,,,0.011,,,,,,,0.25125,0.03079375
+697,MA,2010-07-09,Broad Sound,Northeast,Acadian Province,Y,0.001,5.196114286,0.02,0.019,,,0.019,,,,,,,0.2425,0.0451
+699,MA,2010-07-16,Quincy Bay,Northeast,Acadian Province,Y,0.0,3.93,0.009,0.017,,,0.009,,,,,,,0.23625,0.03467375
+700,NH,2010-07-21,Piscataqua River,Northeast,Acadian Province,Y,0.01,11.34,0.021,0.025,,,0.011,0.0,,,,,,0.557,0.051
+701,NH,2010-08-03,Little Harbor,Northeast,Acadian Province,Y,0.016,3.93,0.038,0.031,,,0.022,0.0,,,,,,0.373,0.032
+703,ME,2010-07-22,Stockton Harbor,Northeast,Acadian Province,Y,0.0,4.17,0.147,0.017,,,0.147,,,,,,,0.2675,0.02963875
+704,ME,2010-07-20,East Penobscot Bay,Northeast,Acadian Province,Y,0.0,6.4619,0.022,0.021,,,0.022,,,,,,,0.21125,0.02609125
+705,ME,2010-07-20,West Penobscot Bay,Northeast,Acadian Province,Y,0.0,1.5,0.021,0.012,,,0.021,,,,,,,0.21625,0.0265575
+706,ME,2010-07-19,West Penobscot Bay,Northeast,Acadian Province,Y,0.0,1.46,0.021,0.006,,,0.021,,,,,,,0.205,0.015265
+707,ME,2010-07-21,West Penobscot Bay,Northeast,Acadian Province,Y,0.0,4.28,0.022,0.03,,,0.022,,,,,,,0.255,0.0847525
+708,ME,2010-07-19,East Penobscot Bay,Northeast,Acadian Province,Y,0.0,4.87,0.022,0.01,,,0.022,,,,,,,0.19375,0.02285375
+709,ME,2010-07-22,East Penobscot Bay,Northeast,Acadian Province,Y,0.0,3.15,0.121,0.01,,,0.121,,,,,,,0.23375,0.0251725
+710,ME,2010-07-20,East Penobscot Bay,Northeast,Acadian Province,Y,0.0,4.49,0.025,0.012,,,0.025,,,,,,,0.215,0.02325375
+712,ME,2010-08-03,Union River Bay,Northeast,Acadian Province,Y,0.006,1.31,0.023,0.012,,,0.017,,,,,,,0.18875,0.027455625
+713,ME,2010-07-29,Muscongus Sound,Northeast,Acadian Province,Y,0.004,3.64,0.017,0.018,,,0.013,,,,,,,0.2475,0.0326325
+714,ME,2010-08-11,Machias Bay,Northeast,Acadian Province,Y,0.012,1.04,0.092,0.025,,,0.08,,,,,,,0.26625,0.0289775
+715,ME,2010-07-23,Blue Hill Bay,Northeast,Acadian Province,Y,0.0,1.36,0.123,0.009,,,0.123,,,,,,,0.25375,0.02198875
+716,ME,2010-08-04,Pleasant Bay,Northeast,Acadian Province,Y,0.007,4.10984,0.025,0.014,,,0.018,,,,,,,0.25875,0.031315625
+717,ME,2010-08-02,Eggemoggin Reach,Northeast,Acadian Province,Y,0.004,0.97,0.022,0.012,,,0.018,,,,,,,0.221875,0.02441375
+718,ME,2010-09-01,Sheepscot Bay,Northeast,Acadian Province,Y,0.003,4.28,0.008,0.019,,,0.005,,,,,,,0.20875,0.03414375
+719,ME,2010-08-04,Narraguagus Bay,Northeast,Acadian Province,Y,0.013,4.92608,0.035,0.021,,,0.022,,,,,,,0.27125,0.036963125
+720,ME,2010-07-27,Saco Bay,Northeast,Acadian Province,Y,0.002,1.28,0.031,0.014,,,0.029,,,,,,,0.29125,0.02624875
+721,ME,2010-07-28,Sheepscot River,Northeast,Acadian Province,Y,0.03,2.1,0.081,0.027,,,0.051,,,,,,,0.34125,0.04478875
+722,ME,2010-08-03,Bartlett Narrows,Northeast,Acadian Province,Y,0.005,2.69,0.023,0.014,,,0.018,,,,,,,0.25125,0.035394375
+723,ME,2010-08-10,Western Bay,Northeast,Acadian Province,Y,0.008,3.78,0.038,0.025,,,0.03,,,,,,,0.29375,0.02754
+724,ME,2010-07-22,Jericho Bay,Northeast,Acadian Province,Y,0.0,3.39,0.152,0.011,,,0.152,,,,,,,0.26875,0.02633375
+725,ME,2010-08-10,Western Bay,Northeast,Acadian Province,Y,0.007,3.72,0.029,0.021,,,0.022,,,,,,,0.23125,0.02366875
+726,CA,2010-07-26,Morro Bay,West,Californian Province,Y,0.039,1.66,0.075,0.031,,,0.036,,,,,,,0.4775,0.06872625
+727,CA,2010-07-27,San Luis Obispo Bay,West,Californian Province,Y,0.004,11.2,0.07,0.018,,,0.066,,,,,,,0.4825,0.05289625
+728,CA,2010-07-26,Morro Bay,West,Californian Province,Y,0.08,0.94,0.127,0.043,,,0.047,,,,,,,0.47625,0.057265
+729,CA,2010-08-11,Drakes Bay,West,Californian Province,Y,0.047,6.24,0.109,0.037,,,0.062,,,,,,,0.39375,0.02838875
+731,NC,2010-07-26,Albermarle Sound,Southeast,Carolinian Province,Y,0.0,42.1,0.0,0.004,,,0.0,,,,,,,0.93625,0.04283
+732,NC,2010-07-20,Roanoke Sound,Southeast,Carolinian Province,Y,0.005,16.34,0.005,0.007,,,0.0,,,,,,,0.74,0.0325475
+733,NC,2010-07-26,Pamlico Sound,Southeast,Carolinian Province,Y,0.0,11.03,0.01,0.005,,,0.01,,,,,,,0.69375,0.026965
+734,NC,2010-07-27,Albermarle Sound,Southeast,Carolinian Province,Y,0.002,48.69,0.002,0.007,,,0.0,,,,,,,0.9775,0.04246
+735,NC,2010-07-27,Corrituck Sound,Southeast,Carolinian Province,Y,0.004,45.2,0.012,0.008,,,0.008,,,,,,,1.575,0.03959875
+736,NC,2010-07-12,Little River,Southeast,Carolinian Province,Y,0.006,86.27,0.006,0.108,,,0.0,,,,,,,1.368,0.2641375
+737,NC,2010-07-20,Albermarle Sound,Southeast,Carolinian Province,Y,0.001,14.03,0.001,0.007,,,0.0,,,,,,,0.67875,0.03100375
+738,GA,2010-08-04,Wassaw Sound,Southeast,Carolinian Province,Y,0.009,11.6,0.033,0.048,,,0.024,,,,,,,0.445,0.078594375
+739,GA,2010-08-03,Wassaw Sound,Southeast,Carolinian Province,Y,0.015,25.46,0.034,0.071,,,0.019,,,,,,,0.7175,0.178198125
+741,WA,2010-07-29,Puget Sound,West,Columbian Province,Y,0.005,12.22,0.015,0.011,,,0.01,,,,,,,0.43,0.05508875
+743,WA,2010-07-23,Port Susan,West,Columbian Province,Y,0.0,,0.093,0.013,,,0.093,,,,,,,0.18375,0.02877875
+744,WA,2010-07-23,Port Susan,West,Columbian Province,Y,0.0,1.79,0.068,0.013,,,0.068,,,,,,,0.19875,0.02542125
+746,WA,2010-07-20,Bellingham Bay,West,Columbian Province,Y,0.001,16.95,0.021,0.016,,,0.02,,,,,,,0.4,0.05860375
+747,WA,2010-07-22,Saratoga Passage,West,Columbian Province,Y,0.0,3.32,0.086,0.017,,,0.086,,,,,,,0.23875,0.04299125
+749,WA,2010-07-29,Boundary/Semiahmoo Bay,West,Columbian Province,Y,0.008,9.09,0.033,0.02,,,0.025,,,,,,,0.3225,0.04528875
+750,CA,2010-08-09,Humboldt Bay,West,Columbian Province,Y,0.034,2.84,0.098,0.041,,,0.064,,,,,,,0.36125,0.0663175
+751,CA,2010-08-10,Arcata Bay,West,Columbian Province,Y,0.026,2.19,0.051,0.068,,,0.025,,,,,,,0.33375,0.08851625
+752,CA,2010-08-12,Tomales Bay,West,Columbian Province,Y,0.01,1.42,0.034,0.06,,,0.024,,,,,,,0.47,0.1114525
+753,CA,2010-08-10,Big Lagoon,West,Columbian Province,Y,0.028,2.11,0.033,0.025,,,0.005,,,,,,,0.30125,0.03212
+754,WA,2010-08-10,Grays Harbor,West,Columbian Province,Y,0.033,3.77,0.069,0.05,,,0.036,,,,,,,0.3125,0.052905
+755,FL,2010-08-31,St. George Sound,Gulf,Louisianian Province,Y,0.025,11.34,0.025,0.008,,,0.0,,,,,,,0.505,0.04172375
+756,LA,2010-07-29,East Cote Blanche Bay,Gulf,Louisianian Province,Y,0.006,11.69,0.801,0.083,,,0.795,,,,,,,1.313,0.1566375
+757,LA,2010-08-04,Caillou Bay,Gulf,Louisianian Province,Y,0.006,22.29828571,0.013,0.01,,,0.007,,,,,,,0.7375,0.080886875
+758,LA,2010-08-08,Lake Pelto,Gulf,Louisianian Province,Y,0.007,14.93,0.022,0.014,,,0.015,,,,,,,0.6075,0.07103375
+759,LA,2010-08-09,Lake Barre,Gulf,Louisianian Province,Y,0.006,25.78,0.011,0.06,,,0.005,,,,,,,0.85375,0.13914375
+760,LA,2010-07-21,Terrebone Bay,Gulf,Louisianian Province,Y,0.003,10.39,0.112,0.021,,,0.109,,,,,,,0.6725,0.07369875
+761,LA,2010-08-09,Lake Pelto,Gulf,Louisianian Province,Y,0.005,16.32,0.01,0.018,,,0.005,,,,,,,0.63375,0.0747525
+762,LA,2010-08-08,Lake Pelto,Gulf,Louisianian Province,Y,0.008,17.82,0.016,0.015,,,0.008,,,,,,,0.665,0.0773025
+763,LA,2010-08-01,Chandeleur Sound,Gulf,Louisianian Province,Y,0.006,13.58,0.013,0.036,,,0.007,,,,,,,0.638125,0.09698625
+764,MS,2010-08-23,Chandeleur Sound,Gulf,Louisianian Province,Y,0.009,2.13,0.022,0.012,,,0.013,,,,,,,0.3325,0.03049875
+765,LA,2010-08-10,Chandeleur Sound,Gulf,Louisianian Province,Y,0.005,29.66,0.016,0.059,,,0.011,,,,,,,0.99375,0.14788375
+766,LA,2010-08-10,Chandeleur Sound,Gulf,Louisianian Province,Y,0.005,35.8,0.01,0.064,,,0.005,,,,,,,1.01625,0.15041875
+767,LA,2010-08-01,Chandeleur Sound,Gulf,Louisianian Province,Y,0.005,10.68,0.009,0.044,,,0.004,,,,,,,0.586875,0.09738875
+768,TX,2010-09-08,Copano Bay,Gulf,Louisianian Province,Y,0.011,11.08,0.029,0.09,,,0.018,,,,,,,0.76125,0.16671125
+769,TX,2010-09-08,Copano Bay,Gulf,Louisianian Province,Y,0.026,8.96,0.067,0.09,,,0.041,,,,,,,0.765,0.16121375
+770,TX,2010-09-06,Aransas Bay,Gulf,Louisianian Province,Y,0.049,4.35,0.079,0.07,,,0.03,,,,,,,0.64375,0.12324375
+771,TX,2010-09-06,Aransas Bay,Gulf,Louisianian Province,Y,0.005,12.15,0.02,0.041,,,0.015,,,,,,,0.53875,0.066025
+774,TX,2010-08-02,Bolivar Roads,Gulf,Louisianian Province,Y,0.005,13.65,0.015,0.055,,,0.01,,,,,,,0.565625,0.11170625
+775,TX,2010-08-04,Galveston Bay,Gulf,Louisianian Province,Y,0.009,17.44,0.013,0.101,,,0.004,,,,,,,0.655,0.166474375
+776,TX,2010-07-29,Galveston Bay,Gulf,Louisianian Province,Y,0.006,14.53,0.083,0.133,,,0.077,,,,,,,0.80875,0.201905
+777,TX,2010-07-29,Galveston Bay,Gulf,Louisianian Province,Y,0.004,18.39,0.023,0.114,,,0.019,,,,,,,0.67,0.16318
+778,TX,2010-07-28,Galveston Bay,Gulf,Louisianian Province,Y,0.057,7.47504,0.091,0.096,,,0.034,,,,,,,0.67625,0.1431425
+779,TX,2010-08-03,West Bay,Gulf,Louisianian Province,Y,0.012,11.69,0.024,0.037,,,0.012,,,,,,,0.628125,0.08729875
+780,TX,2010-08-04,East Bay,Gulf,Louisianian Province,Y,0.005,11.83,0.009,0.063,,,0.004,,,,,,,0.6775,0.123991875
+781,TX,2010-08-02,Galveston Bay,Gulf,Louisianian Province,Y,0.011,11.48,0.069,0.054,,,0.058,,,,,,,0.616875,0.11125875
+782,TX,2010-07-27,Galveston Bay,Gulf,Louisianian Province,Y,0.093,11.17,0.112,0.095,,,0.019,,,,,,,0.73125,0.14250375
+783,TX,2010-08-10,Christmas Bay,Gulf,Louisianian Province,Y,0.009,14.58,0.026,0.012,,,0.017,,,,,,,0.5125,0.0838125
+784,TX,2010-08-17,Matagorda Bay,Gulf,Louisianian Province,Y,0.008,18.99,0.017,0.144,,,0.009,,,,,,,0.7675,0.23909125
+785,TX,2010-08-16,East Matagorda Bay,Gulf,Louisianian Province,Y,0.016,8.59,0.037,0.06,,,0.021,,,,,,,0.46875,0.11009125
+786,TX,2010-08-18,Tres Palacios Bay,Gulf,Louisianian Province,Y,0.001,24.77,0.009,0.095,,,0.008,,,,,,,0.7875,0.167255
+787,TX,2010-08-17,Matagorda Bay,Gulf,Louisianian Province,Y,0.011,19.16,0.022,0.063,,,0.011,,,,,,,0.73,0.15778125
+788,TX,2010-08-18,Matagorda Bay,Gulf,Louisianian Province,Y,0.002,14.46,0.013,0.05,,,0.011,,,,,,,0.585,0.0915525
+789,LA,2010-08-10,Dixon Bay,Gulf,Louisianian Province,Y,0.001,3.23,1.681,0.167,,,1.68,,,,,,,1.898,0.24786625
+790,LA,2010-08-05,East Bay (Miss),Gulf,Louisianian Province,Y,0.02,3.78,2.105,0.166,,,2.085,,,,,,,2.26,0.234133125
+792,TX,2010-09-09,Ayres Bay,Gulf,Louisianian Province,Y,0.114,5.73,0.181,0.106,,,0.067,,,,,,,0.7925,0.17628
+793,TX,2010-09-01,San Antonio Bay,Gulf,Louisianian Province,Y,0.003,14.95,0.003,0.12,,,0.0,,,,,,,0.6525,0.15403875
+794,TX,2010-08-31,Espiritu Santo Bay,Gulf,Louisianian Province,Y,0.006,5.93,0.016,0.022,,,0.01,,,,,,,0.3975,0.0481025
+795,TX,2010-09-01,San Antonio Bay,Gulf,Louisianian Province,Y,0.005,11.4,0.005,0.079,,,0.0,,,,,,,0.65125,0.119595
+796,TX,2010-09-09,San Antonio Bay,Gulf,Louisianian Province,Y,0.092,9.16,0.14,0.107,,,0.048,,,,,,,0.67,0.13100125
+797,TX,2010-09-01,San Antonio Bay,Gulf,Louisianian Province,Y,0.002,10.17,0.002,0.105,,,0.0,,,,,,,0.63875,0.140335
+798,TX,2010-08-30,Espiritu Santo Bay,Gulf,Louisianian Province,Y,0.006,5.34,0.016,0.03,,,0.01,,,,,,,0.40625,0.053975
+799,TX,2010-08-30,Barroom Bay,Gulf,Louisianian Province,Y,0.007,4.95,0.017,0.015,,,0.01,,,,,,,0.375,0.035935
+800,LA,2010-07-15,Lake Borgne,Gulf,Louisianian Province,Y,0.003,7.47,0.003,0.068,,,0.0,,,,,,,0.38625,0.0917025
+801,MS,2010-08-10,Mississippi Sound,Gulf,Louisianian Province,Y,0.009,29.79,0.027,0.083,,,0.018,,,,,,,0.69875,0.14711125
+802,MS,2010-07-28,Mississippi Sound,Gulf,Louisianian Province,Y,0.003,7.96,0.011,0.02,,,0.008,,,,,,,0.48125,0.056825
+803,LA,2010-08-02,Mississippi Sound,Gulf,Louisianian Province,Y,0.004,7.98,0.008,0.058,,,0.004,,,,,,,0.544375,0.09659125
+804,MS,2010-08-10,Mississippi Sound,Gulf,Louisianian Province,Y,0.007,13.37,0.024,0.043,,,0.017,,,,,,,0.56125,0.08965875
+805,LA,2010-08-04,Lake Borgne,Gulf,Louisianian Province,Y,0.005,16.06,0.009,0.061,,,0.004,,,,,,,0.5025,0.094749375
+806,LA,2010-08-04,Mississippi Sound,Gulf,Louisianian Province,Y,0.012,14.19725714,0.016,0.06,,,0.004,,,,,,,0.525,0.095391875
+807,MS,2010-08-02,Mississippi Sound,Gulf,Louisianian Province,Y,0.005,9.45,0.017,0.018,,,0.012,,,,,,,0.484375,0.05947375
+808,MS,2010-08-24,Mississippi Sound,Gulf,Louisianian Province,Y,0.008,8.94,0.019,0.034,,,0.011,,,,,,,0.42875,0.07335625
+809,MS,2010-07-29,Back Bay Biloxi/Bernard Bayou,Gulf,Louisianian Province,Y,0.004,22.51,0.004,0.022,,,0.0,,,,,,,0.72875,0.087415
+810,LA,2010-08-02,Mississippi Sound,Gulf,Louisianian Province,Y,0.005,14.46,0.014,0.06,,,0.009,,,,,,,0.699375,0.128055
+811,MS,2010-07-29,Mississippi Sound,Gulf,Louisianian Province,Y,0.005,17.07,0.009,0.024,,,0.004,,,,,,,0.6225,0.0957775
+812,MS,2010-08-09,Mississippi Sound,Gulf,Louisianian Province,Y,0.008,4.58,0.017,0.052,,,0.009,,,,,,,0.41,0.045405
+814,FL,2010-09-01,Deadman Bay,Gulf,Louisianian Province,Y,0.02,8.2,0.032,0.006,,,0.012,,,,,,,0.77875,0.02732625
+815,FL,2010-08-13,Homosassa Bay,Gulf,Louisianian Province,Y,0.011,2.14,0.026,0.009,,,0.015,,,,,,,0.47375,0.0188475
+816,TX,2010-07-20,Sabine Lake,Gulf,Louisianian Province,Y,0.002,11.18,0.002,0.024,,,0.0,,,,,,,0.52,0.052765
+817,FL,2010-08-12,Cedar Keys,Gulf,Louisianian Province,Y,0.075,62.72,0.09,0.016,,,0.015,,,,,,,0.9925,0.11943
+818,MS,2010-08-04,Grand Bay #2,Gulf,Louisianian Province,Y,0.006,17.67,0.019,0.006,,,0.013,,,,,,,0.6275,0.073871875
+819,VA,2010-08-05,Broad/Linkhorn Bay,Northeast,Virginian Province,Y,0.01,20.4,0.018,0.012,3.6,0.008,0.008,0.0,0.619,0.0336,0.236,0.022,,0.855,0.0556
+820,VA,2010-07-27,Elizabeth River,Northeast,Virginian Province,Y,0.008,14.6,0.154,0.06,1.6,0.024,0.146,0.122,0.277,0.0364,0.36,0.07,,0.637,0.1064
+822,VA,2010-07-27,Lower James River,Northeast,Virginian Province,Y,0.008,13.9,0.021,0.032,1.4,0.007,0.013,0.006,0.24,0.0649,0.251,0.047,,0.491,0.1119
+823,DE,2010-07-19,Delaware Bay,Northeast,Virginian Province,Y,0.214,10.51,0.651,0.073,,,0.437,,,,,,,1.11625,0.1554825
+824,DE,2010-07-21,Delaware Bay,Northeast,Virginian Province,Y,0.054,15.04,0.411,0.052,,,0.357,,,,,,,0.835,0.10148625
+825,DE,2010-08-09,Christina River,Northeast,Virginian Province,Y,0.012,14.89,1.782,0.06,,,1.77,,,,,,,2.095,0.12754125
+826,DE,2010-07-27,Delaware Bay,Northeast,Virginian Province,Y,0.005,7.72,0.03,0.019,,,0.025,,,,,,,0.38125,0.0483225
+827,NY,2010-07-28,Long Island Sound,Northeast,Virginian Province,Y,0.006,11.0,0.075,0.085,,0.043,0.069,0.026,,,,,,0.427,0.114
+828,NY,2010-08-27,Long Island Sound,Northeast,Virginian Province,Y,0.0,3.9,0.02,0.046,,0.009,0.02,0.011,,,,,,0.237,0.068
+829,NY,2010-09-02,Long Island Sound,Northeast,Virginian Province,Y,0.0,1.4,0.0,0.013,,0.0,0.0,0.0,,,,,,0.16,0.036
+830,NY,2010-07-29,Huntington Bay,Northeast,Virginian Province,Y,0.0,4.1,0.005,0.05,,0.005,0.005,0.0,,,,,,0.452,0.098
+831,NY,2010-08-27,Long Island Sound,Northeast,Virginian Province,Y,0.0,5.0,0.059,0.063,,0.04,0.059,0.019,,,,,,0.319,0.071
+832,CT,2010-07-28,Long Island Sound,Northeast,Virginian Province,Y,0.0,4.2,0.004,0.036,,0.004,0.004,0.0,,,,,,0.267,0.065
+833,NY,2010-07-28,Hudson River,Northeast,Virginian Province,Y,0.018,11.53,0.495,0.042,,,0.477,,,,,,,0.775,0.07632375
+834,NY,2010-07-26,Jamaica Bay,Northeast,Virginian Province,Y,0.165,34.94,0.388,0.187,,,0.223,,,,,,,1.13875,0.28765375
+842,NY,2010-07-29,Hudson River,Northeast,Virginian Province,Y,0.321,5.77,0.628,0.108,,,0.307,,,,,,,0.92,0.13060125
+844,NY,2010-07-27,Lower Ny/Nj Bay,Northeast,Virginian Province,Y,0.164,10.55,0.423,0.095,,,0.259,,,,,,,0.87375,0.12806375
+847,NJ,2010-07-27,Lower Ny/Nj Bay,Northeast,Virginian Province,Y,0.008,65.99,0.023,0.027,,,0.015,,,,,,,0.9025,0.16091875
+848,NY,2010-07-28,Hudson River,Northeast,Virginian Province,Y,0.041,7.23,0.13,0.014,,,0.089,,,,,,,0.4875,0.04890625
+849,NJ,2010-07-26,Jamaica Bay,Northeast,Virginian Province,Y,0.202,43.53,0.36,0.215,,,0.158,,,,,,,1.185,0.374458
+852,AL,2010-07-21,Perdido Bay,Gulf,Louisianian Province,Y,0.001,11.07,0.001,0.015,,,0.0,,,,,,,0.53125,0.021445
+853,NC,2010-07-12,Albermarle Sound,Southeast,Carolinian Province,Y,0.008,20.79,0.008,0.007,,,0.0,,,,,,,0.10125,0.01037625
+855,MA,2010-07-16,Weymouth Fore River/Town River,Northeast,Acadian Province,Y,0.017,4.07,0.028,0.025,,,0.011,,,,,,,0.34375,0.062955
+860,NY,2010-07-17,Gardiners Bay,Northeast,Virginian Province,Y,0.014,3.18,0.025,0.029,,,0.011,,,,,,,0.26625,0.04279
+862,NY,2010-07-20,Gardiners Bay,Northeast,Virginian Province,Y,0.002,3.26,0.023,0.022,,,0.021,,,,,,,0.24125,0.0349725
+863,NY,2010-07-15,Noyack Bay,Northeast,Virginian Province,Y,0.014,4.1,0.023,0.036,,,0.009,,,,,,,0.27125,0.05416375
+864,NY,2010-07-13,Great Peconic Bay,Northeast,Virginian Province,Y,0.0,5.63,0.008,0.015,,,0.008,,,,,,,0.42375,0.0598825
+865,NY,2010-07-18,Gardiners Bay,Northeast,Virginian Province,Y,0.01,2.2,0.034,0.021,,,0.024,,,,,,,0.235,0.0303775
+866,NY,2010-07-14,Little Peconic Bay,Northeast,Virginian Province,Y,0.004,3.98,0.014,0.033,,,0.01,,,,,,,0.245625,0.03835
+867,NY,2010-07-18,Gardiners Bay,Northeast,Virginian Province,Y,0.006,2.19,0.026,0.021,,,0.02,,,,,,,0.2325,0.03190375
+868,NY,2010-07-16,Little Peconic Bay,Northeast,Virginian Province,Y,0.003,5.4,0.009,0.032,,,0.006,,,,,,,0.27875,0.0502075
+869,NY,2010-07-21,Lake Montauk,Northeast,Virginian Province,Y,0.0,3.65,0.129,0.015,,,0.129,,,,,,,0.2725,0.03628
+870,NY,2010-07-19,Napeague Bay,Northeast,Virginian Province,Y,0.002,2.81,0.024,0.022,,,0.022,,,,,,,0.23875,0.0316225
+871,NY,2010-07-21,Napeague Bay,Northeast,Virginian Province,Y,0.0,1.8,0.128,0.018,,,0.128,,,,,,,0.24125,0.0303875
+872,NY,2010-07-17,Block Island Sound,Northeast,Virginian Province,Y,0.023,1.95,0.035,0.02,,,0.012,,,,,,,0.2275,0.03293625
+873,NY,2010-07-23,Great South Bay,Northeast,Virginian Province,Y,0.001,14.61,0.114,0.011,,,0.113,,,,,,,0.79875,0.0890025
+875,DE,2010-08-05,Little Assawoman Bay,Northeast,Virginian Province,Y,0.011,13.59,0.027,0.015,,,0.016,,,,,,,0.98125,0.07222
+876,NY,2010-07-24,Great South Bay,Northeast,Virginian Province,Y,0.005,18.33,0.103,0.015,,,0.098,,,,,,,0.92125,0.09066375
+877,DE,2010-08-16,Indian River Bay,Northeast,Virginian Province,Y,0.101,20.01,0.117,0.022,,,0.016,,,,,,,0.78375,0.122325
+879,FL,2010-08-11,Barnes Sound,Gulf,West Indian Province,Y,0.103,1.1,0.126,0.005,,,0.023,,,,,,,0.805,0.002875
+880,FL,2010-08-12,Miami River,Southeast,West Indian Province,Y,0.393,3.09,0.504,0.019,,,0.111,,,,,,,1.295,0.02110625
+882,FL,2010-08-06,Florida Bay,Gulf,West Indian Province,Y,0.086,1.64,0.113,0.026,,,0.027,,,,,,,1.25,0.01629625
+883,FL,2010-08-04,Florida Bay,Gulf,West Indian Province,Y,0.017,0.41,0.039,0.004,,,0.022,,,,,,,0.325,0.003963125
+884,FL,2010-08-05,Florida Bay,Gulf,West Indian Province,Y,0.033,,0.057,0.01,,,0.024,,,,,,,0.50125,0.00606625
+885,FL,2010-08-04,Florida Bay,Gulf,West Indian Province,Y,0.028,0.46,0.053,0.003,,,0.025,,,,,,,0.3725,0.005250625
+886,FL,2010-08-05,Torch Key Mangroves,Gulf,West Indian Province,Y,0.02,0.42,0.049,0.006,,,0.029,,,,,,,0.3825,0.00456875
+887,FL,2010-08-05,Cudjoe Basin,Gulf,West Indian Province,Y,0.014,1.15,0.037,0.006,,,0.023,,,,,,,0.395,0.0183375
+888,FL,2010-08-04,Big Spanish Channel,Gulf,West Indian Province,Y,0.025,0.345853571,0.049,0.003,,,0.024,,,,,,,0.32875,0.003195625
+889,ME,2010-07-22,Penobscot River,Northeast,Acadian Province,Y,0.025,2.39,0.171,0.028,,,0.146,,,,,,,0.31625,0.03344125
+890,ME,2010-07-19,West Penobscot Bay,Northeast,Acadian Province,Y,0.0,4.184622222,0.022,0.009,,,0.022,,,,,,,0.205,0.01944125
+891,ME,2010-07-22,Merchant Row,Northeast,Acadian Province,Y,0.0,2.12,0.147,0.009,,,0.147,,,,,,,0.2275,0.0218025
+892,CA,2010-07-26,Morro Bay,West,Californian Province,Y,0.026,1.5,0.107,0.035,,,0.081,,,,,,,0.4275,0.05238125
+893,WA,2010-07-26,Possession Sound,West,Columbian Province,Y,0.002,1.25,0.034,0.024,,,0.032,,,,,,,0.23875,0.040385
+894,WA,2010-07-27,Port Gamble Bay,West,Columbian Province,Y,0.029,4.67,0.061,0.033,,,0.032,,,,,,,0.34375,0.0574275
+896,WA,2010-08-10,Grays Harbor,West,Columbian Province,Y,0.026,6.46,0.055,0.051,,,0.029,,,,,,,0.3725,0.07653
+897,CA,2010-07-29,Tomales Bay,West,Columbian Province,Y,0.005,10.3,0.019,0.012,,,0.014,,,,,,,0.35125,0.04599
+899,CA,2010-08-10,Arcata Bay,West,Columbian Province,Y,0.038,2.148,0.074,0.07,,,0.036,,,,,,,0.37375,0.0875275
+900,LA,2010-07-29,East Cote Blanche Bay,Gulf,Louisianian Province,Y,0.157,20.26,0.812,0.541,,,0.655,,,,,,,1.27,0.13362375
+901,LA,2010-07-22,Lake Salvador,Gulf,Louisianian Province,Y,0.065,15.73,1.143,0.121,,,1.078,,,,,,,1.788,0.17133625
+902,TX,2010-08-18,Matagorda Bay,Gulf,Louisianian Province,Y,0.003,11.78,0.014,0.046,,,0.011,,,,,,,0.5625,0.08671875
+903,LA,2010-08-10,Scott Bay,Gulf,Louisianian Province,Y,0.005,6.28,1.527,0.158,,,1.522,,,,,,,2.263,0.235625
+904,LA,2010-08-15,East Bay (Miss),Gulf,Louisianian Province,Y,0.037,2.48,1.567,0.172,,,1.53,,,,,,,1.9,0.2617775
+905,TX,2010-08-30,Espiritu Santo Bay,Gulf,Louisianian Province,Y,0.008,4.89,0.019,0.028,,,0.011,,,,,,,0.4125,0.0602225
+906,TX,2010-08-31,Espiritu Santo Bay,Gulf,Louisianian Province,Y,0.006,6.1,0.018,0.016,,,0.012,,,,,,,0.28625,0.04124375
+907,NJ,2010-08-05,Great Bay,Northeast,Virginian Province,Y,0.058,7.92,0.076,0.051,,,0.018,,,,,,,0.4875,0.088261875
+947,OH,2010-08-27,Lake Erie,Great Lakes,Great Lakes Province,Y,0.003,7.16,0.003,0.001,,,0.0,,,,,,,0.29875,0.01603875
+975,WI,2010-07-26,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.0,31.7,0.0,0.014,,,0.0,,,,,,1.28,1.28,0.13
+976,WI,2010-07-27,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.0,0.34,0.178,0.0,,,0.178,,,,,,0.0,0.178,0.0028
+977,MI,2010-07-28,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,0.89,0.317,0.004,,,0.313,,,,,,,0.4325,0.0
+984,NY,2010-06-20,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.009,0.79,0.257,0.004,,,0.248,,,,,,,0.40625,0.0
+985,NY,2010-06-18,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.012,0.95,0.28,0.004,,,0.268,,,,,,,0.42125,0.0
+986,NY,2010-06-20,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.005,1.82,0.27,0.003,,,0.265,,,,,,,0.43125,0.00240875
+987,NY,2010-06-22,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.006,0.76,0.22,0.003,,,0.214,,,,,,,0.371875,0.002248125
+988,NY,2010-06-19,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.006,1.15,0.258,0.004,,,0.252,,,,,,,0.41125,0.0023525
+989,NY,2010-06-25,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.006,2.19,0.235,0.005,,,0.229,,,,,,,0.443375,0.006725375
+990,NY,2010-06-18,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.01,0.98,0.275,0.004,,,0.265,,,,,,,0.4375,0.0
+991,NY,2010-06-15,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.01,4.18,0.286,0.01,,,0.276,,,,,,,0.5725,0.02614875
+992,OH,2010-08-25,Lake Erie,Great Lakes,Great Lakes Province,Y,0.005,6.99,0.067,0.0,,,0.062,,,,,,,0.3825,0.01197125
+993,NY,2010-07-12,Lake Erie,Great Lakes,Great Lakes Province,Y,0.007,3.57,0.16,0.004,,,0.153,,,,,,,0.4025,0.0070625
+994,NY,2010-07-22,Lake Erie,Great Lakes,Great Lakes Province,Y,0.006,1.8,0.117,0.002,,,0.111,,,,,,,0.33125,0.004645
+995,NY,2010-07-18,Lake Erie,Great Lakes,Great Lakes Province,Y,0.009,2.17,0.145,0.003,,,0.136,,,,,,,0.37875,0.01150625
+996,OH,2010-07-26,Lake Erie,Great Lakes,Great Lakes Province,Y,0.015,11.52,0.168,0.004,,,0.153,,,,,,,0.51875,0.0141425
+997,OH,2010-08-04,Lake Erie,Great Lakes,Great Lakes Province,Y,0.002,3.24,0.054,0.001,,,0.052,,,,,,,0.315,0.007103125
+998,MI,2010-07-15,Lake Huron,Great Lakes,Great Lakes Province,Y,0.007,0.74,0.198,0.004,,,0.191,,,,,,,0.35625,0.0
+999,NY,2010-07-15,Lake Erie,Great Lakes,Great Lakes Province,Y,0.003,1.29,0.157,0.003,,,0.154,,,,,,,0.36375,0.0053425
+1000,OH,2010-08-25,Lake Erie,Great Lakes,Great Lakes Province,Y,0.03,4.36,0.122,0.001,,,0.092,,,,,,,0.42125,0.0217425
+1001,OH,2010-08-19,Lake Erie,Great Lakes,Great Lakes Province,Y,0.001,4.1,0.048,0.001,,,0.047,,,,,,,0.295,0.0070175
+1002,OH,2010-08-12,Lake Erie,Great Lakes,Great Lakes Province,Y,0.011,4.82,0.042,0.0,,,0.031,,,,,,,0.36125,0.00813625
+1003,NY,2010-07-15,Lake Erie,Great Lakes,Great Lakes Province,Y,0.007,1.84,0.152,0.003,,,0.145,,,,,,,0.36125,0.0041875
+1004,OH,2010-09-01,Lake Erie,Great Lakes,Great Lakes Province,Y,0.009,19.57,0.236,0.002,,,0.227,,,,,,,0.7825,0.03611125
+1005,OH,2010-07-27,Lake Erie,Great Lakes,Great Lakes Province,Y,0.007,6.22,0.11,0.003,,,0.103,,,,,,,0.46625,0.01276125
+1006,OH,2010-08-02,Lake Erie,Great Lakes,Great Lakes Province,Y,0.005,2.98,0.089,0.002,,,0.084,,,,,,,0.305625,0.00492125
+1011,OH,2010-08-10,Lake Erie,Great Lakes,Great Lakes Province,Y,0.003,7.040666667,0.008,0.012,,,0.005,,,,,,,0.4875,0.03604125
+1012,MI,2010-07-15,Lake Huron,Great Lakes,Great Lakes Province,Y,0.005,0.37,0.261,0.005,,,0.256,,,,,,,0.38375,0.0021725
+1013,MI,2010-07-15,Lake Huron,Great Lakes,Great Lakes Province,Y,0.008,0.41,0.188,0.005,,,0.18,,,,,,,0.32875,0.00297375
+1014,MI,2010-07-15,Lake Huron,Great Lakes,Great Lakes Province,Y,0.008,0.57,0.197,0.005,,,0.189,,,,,,,0.34875,0.0
+1015,MI,2010-07-16,Lake Huron,Great Lakes,Great Lakes Province,Y,0.007,0.7,0.285,0.004,,,0.278,,,,,,,0.41625,0.00213
+1016,MI,2010-07-15,Lake Huron,Great Lakes,Great Lakes Province,Y,0.008,0.6,0.202,0.005,,,0.194,,,,,,,0.35625,0.0029825
+1017,MI,2010-07-12,Lake Huron,Great Lakes,Great Lakes Province,Y,0.006,4.06688,0.111,0.004,,,0.105,,,,,,,0.43625,0.00691875
+1022,WI,2010-07-15,Lake Michigan,Great Lakes,Great Lakes Province,Y,,0.51,0.181,0.0,,,0.181,,,,,,0.23,0.411,0.0039
+1023,MI,2010-07-14,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.006,0.77,0.288,0.004,,,0.282,,,,,,,0.43875,0.0022975
+1024,WI,2010-07-13,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.0,1.05,0.088,0.0,,,0.088,,,,,,0.19,0.278,0.0044
+1025,MI,2010-07-14,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.006,0.491653333,0.275,0.005,,,0.269,,,,,,,0.41375,0.00235625
+1026,MI,2010-07-13,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,2.45,0.273,0.004,,,0.27,,,,,,,0.4525,0.00355875
+1027,MI,2010-07-13,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,0.7,0.285,0.004,,,0.28,,,,,,,0.4325,0.00219125
+1028,MI,2010-07-14,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,1.26,0.28,0.004,,,0.278,,,,,,,0.4275,0.0030125
+1029,MI,2010-07-13,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,0.87,0.283,0.004,,,0.28,,,,,,,0.43625,0.0
+1030,WI,2010-07-27,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.0,0.0,0.166,0.0,,,0.166,,,,,,0.0,0.166,0.0033
+1032,MI,2010-07-29,Lake Superior,Great Lakes,Great Lakes Province,Y,0.003,0.44,0.33,0.005,,,0.327,,,,,,,0.45125,0.00224
+1033,MI,2010-07-30,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.008,4.2,0.099,0.005,,,0.091,,,,,,,0.429375,0.01099
+1034,MI,2010-07-12,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.01,0.23,0.194,0.005,,,0.184,,,,,,,0.34125,0.00237875
+1035,NY,2010-07-14,Lake Erie,Great Lakes,Great Lakes Province,Y,0.035,1.93,0.196,0.004,,,0.161,,,,,,,0.415,0.010075
+1036,IN,2010-08-13,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,0.88,0.235,0.004,,,0.233,,,,,,,0.4375,0.003735
+1037,MI,2010-08-03,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,4.6,0.004,0.003,,,0.002,,,,,,,0.32375,0.007396875
+1038,NY,2010-07-13,Lake Erie,Great Lakes,Great Lakes Province,Y,0.03,1.56,0.196,0.004,,,0.166,,,,,,,0.39875,0.00716625
+1039,MI,2010-07-27,Lake Huron,Great Lakes,Great Lakes Province,Y,0.01,0.39,0.245,0.006,,,0.235,,,,,,,0.3825,0.0
+1040,PA,2010-07-21,Lake Erie,Great Lakes,Great Lakes Province,Y,0.001,26.35,0.001,0.004,,,0.0,,,,,,,0.565,0.0468975
+1041,MI,2010-08-03,Lake Superior,Great Lakes,Great Lakes Province,Y,0.003,0.5,0.308,0.003,,,0.305,,,,,,,0.40125,0.0
+1042,MI,2010-07-27,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.007,2.83536,0.097,0.005,,,0.09,,,,,,,0.4575,0.0066625
+1043,IL,2010-08-16,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,0.72,0.245,0.003,,,0.243,,,,,,,0.385,0.01271125
+1044,MI,2010-07-29,Lake Superior,Great Lakes,Great Lakes Province,Y,0.005,0.75,0.323,0.004,,,0.318,,,,,,,0.43875,0.0
+1045,MI,2010-08-03,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.001,5.5,0.003,0.003,,,0.002,,,,,,,0.3675,0.009040625
+1046,NY,2010-06-13,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.01,1.26,0.198,0.001,,,0.188,,,,,,,0.36625,0.00741875
+1047,MI,2010-08-02,Lake Superior,Great Lakes,Great Lakes Province,Y,0.007,0.55,0.312,0.003,,,0.305,,,,,,,0.414375,0.00206625
+1048,NY,2010-06-14,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.01,1.75,0.277,0.003,,,0.267,,,,,,,0.44,0.00865625
+1049,MI,2010-07-24,Lake Huron,Great Lakes,Great Lakes Province,Y,0.009,2.22,0.077,0.01,,,0.068,,,,,,,0.38,0.03179625
+1050,MI,2010-07-23,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,1.32,0.002,0.01,,,0.0,,,,,,,0.3375,0.00850125
+1051,OH,2010-07-27,Lake Erie,Great Lakes,Great Lakes Province,Y,0.005,29.18,0.005,0.024,,,0.0,,,,,,,0.9875,0.1368275
+1052,IN,2010-08-14,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.011,2.43,0.198,0.003,,,0.187,,,,,,,0.3825,0.00607375
+1053,MI,2010-07-16,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.025,1.96,0.106,0.007,,,0.081,,,,,,,0.51875,0.01169125
+1054,MI,2010-07-29,Lake Superior,Great Lakes,Great Lakes Province,Y,0.012,0.91,0.348,0.004,,,0.336,,,,,,,0.44625,0.00221125
+1055,MI,2010-07-24,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,2.48,0.047,0.005,,,0.042,,,,,,,0.3325,0.00473625
+1056,PA,2010-07-21,Lake Erie,Great Lakes,Great Lakes Province,Y,0.001,9.97,0.001,0.003,,,0.0,,,,,,,0.4775,0.02916375
+1057,MI,2010-07-08,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.012,0.78,0.187,0.005,,,0.175,,,,,,,0.36,0.00522
+1058,MI,2010-07-13,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.004,2.31,0.097,0.006,,,0.093,,,,,,,0.37875,0.00756
+1059,MI,2010-07-30,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,0.64,0.322,0.005,,,0.318,,,,,,,0.418125,0.00384625
+1060,MI,2010-08-04,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,4.7,0.006,0.004,,,0.004,,,,,,,0.325,0.007148125
+1061,MI,2010-07-26,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.001,2.8,0.015,0.005,,,0.014,,,,,,,0.3775,0.00345375
+1062,OH,2010-07-26,Lake Erie,Great Lakes,Great Lakes Province,Y,0.09,7.83,1.17,0.024,,,1.08,,,,,,,1.478,0.05188625
+1063,WI,2010-08-21,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,1.98,0.054,0.003,,,0.051,,,,,,,0.35125,0.00908
+1064,PA,2010-07-19,Lake Erie,Great Lakes,Great Lakes Province,Y,0.004,6.64,0.172,0.005,,,0.168,,,,,,,0.4425,0.0123475
+1065,WI,2010-08-18,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,6.3,0.032,0.005,,,0.029,,,,,,,0.4475,0.01990125
+1066,MI,2010-08-03,Lake Superior,Great Lakes,Great Lakes Province,Y,0.003,0.31,0.309,0.003,,,0.306,,,,,,,0.4975,0.0
+1067,PA,2010-07-20,Lake Erie,Great Lakes,Great Lakes Province,Y,0.002,23.06,0.002,0.005,,,0.0,,,,,,,0.5375,0.04209625
+1068,MI,2010-07-11,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.012,0.27,0.223,0.005,,,0.211,,,,,,,0.35375,0.002335
+1069,MI,2010-07-23,Lake Huron,Great Lakes,Great Lakes Province,Y,0.006,0.39,0.205,0.005,,,0.199,,,,,,,0.34125,0.002295
+1070,NY,2010-06-12,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.008,0.56,0.078,0.001,,,0.07,,,,,,,0.27625,0.00747125
+1071,MI,2010-07-31,Lake Superior,Great Lakes,Great Lakes Province,Y,0.007,1.81,0.136,0.005,,,0.129,,,,,,,0.321875,0.00992125
+1072,WI,2010-08-19,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.006,5.08,0.029,0.005,,,0.023,,,,,,,0.44125,0.01898125
+1073,MI,2010-07-10,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.014,0.32,0.149,0.005,,,0.135,,,,,,,0.30125,0.0
+1074,MI,2010-07-15,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.008,2.12,0.12,0.006,,,0.112,,,,,,,0.38875,0.00958125
+1075,MI,2010-07-08,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.01,0.86,0.16,0.005,,,0.15,,,,,,,0.33125,0.0027625
+1076,NY,2010-06-13,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.008,1.43,0.208,0.002,,,0.2,,,,,,,0.375,0.00971
+1077,MI,2010-08-01,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,3.4,0.027,0.005,,,0.024,,,,,,,0.301875,0.00657625
+1078,MI,2010-07-29,Lake Erie,Great Lakes,Great Lakes Province,Y,0.01,56.71,0.416,0.056,,,0.406,,,,,,,1.473,0.20108875
+1079,NY,2010-06-10,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.038,,0.377,0.015,,,0.339,,,,,,,0.60375,0.03761
+1080,MI,2010-07-25,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.007,2.73,0.031,0.004,,,0.024,,,,,,,0.32,0.00475125
+1081,MI,2010-07-28,Lake Superior,Great Lakes,Great Lakes Province,Y,0.007,0.92,0.276,0.005,,,0.269,,,,,,,0.4225,0.0064975
+1082,MI,2010-07-29,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.024,2.39,0.082,0.006,,,0.058,,,,,,,0.58875,0.0129925
+1083,IN,2010-08-12,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.004,0.96,0.233,0.004,,,0.229,,,,,,,0.44125,0.0041425
+1084,PA,2010-07-17,Lake Erie,Great Lakes,Great Lakes Province,Y,0.016,7.88,0.255,0.005,,,0.239,,,,,,,0.58,0.0230325
+1085,WI,2010-08-22,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.024,1.78,0.127,0.005,,,0.103,,,,,,,0.39875,0.00915
+1086,MI,2010-07-26,Lake Huron,Great Lakes,Great Lakes Province,Y,0.004,5.13,0.01,0.016,,,0.006,,,,,,,0.5725,0.0506125
+1087,OH,2010-07-28,Lake Erie,Great Lakes,Great Lakes Province,Y,0.003,15.04,0.003,0.005,,,0.0,,,,,,,0.55625,0.03003875
+1088,NY,2010-06-17,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.012,11.8,0.012,0.007,,,0.0,,,,,,,0.56625,0.0421575
+1089,MI,2010-07-23,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,2.56,0.011,0.004,,,0.009,,,,,,,0.28375,0.0047675
+1090,MI,2010-07-23,Lake Huron,Great Lakes,Great Lakes Province,Y,0.011,0.98,0.207,0.004,,,0.196,,,,,,,0.355,0.0049475
+1091,NY,2010-06-16,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.01,2.38,0.245,0.002,,,0.235,,,,,,,0.44125,0.0057575
+1092,MI,2010-08-05,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,2.42,0.006,0.008,,,0.004,,,,,,,0.325,0.008235625
+1093,OH,2010-07-29,Lake Erie,Great Lakes,Great Lakes Province,Y,0.014,31.79,0.746,0.063,,,0.732,,,,,,,1.568,0.16977875
+1094,WI,2010-08-20,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.009,1.99,0.009,0.002,,,0.0,,,,,,,0.505,0.0159
+1095,NY,2010-06-11,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.011,0.45,0.149,0.002,,,0.138,,,,,,,0.32,0.00645125
+1096,MI,2010-07-31,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,3.16,0.013,0.005,,,0.008,,,,,,,0.396875,0.009785
+1097,WI,2010-08-17,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.001,22.04,0.444,0.005,,,0.443,,,,,,,0.91,0.03137875
+1098,MI,2010-07-27,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,1.93,0.002,0.006,,,0.0,,,,,,,0.43875,0.011785
+1099,IN,2010-08-15,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.044,1.17,0.995,0.015,,,0.951,,,,,,,1.275,0.0285975
+1100,MI,2010-07-14,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,2.23,0.106,0.006,,,0.101,,,,,,,0.38625,0.0082075
+1101,MI,2010-07-30,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,0.6,0.313,0.004,,,0.309,,,,,,,0.409375,0.00243625
+1102,MI,2010-08-01,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,3.32,0.003,0.004,,,0.0,,,,,,,0.339375,0.00857625
+1103,MI,2010-07-24,Lake Huron,Great Lakes,Great Lakes Province,Y,0.01,0.58,0.23,0.004,,,0.22,,,,,,,0.37125,0.0
+1119,OH,2010-09-01,Lake Erie,Great Lakes,Great Lakes Province,Y,0.001,6.93,0.066,0.003,,,0.065,,,,,,,0.3675,0.01288875
+1121,IN,2010-08-10,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.001,2.13,0.257,0.013,,,0.256,,,,,,,0.4375,0.004226
+1122,IN,2010-08-09,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,1.32,0.252,0.008,,,0.25,,,,,,,0.42125,0.00343375
+1124,MI,2010-08-01,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,0.35621,0.324,0.003,,,0.32,,,,,,,0.421875,0.0
+1125,IN,2010-08-11,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,1.44,0.268,0.005,,,0.263,,,,,,,0.485,0.00521
+1126,MI,2010-08-01,Lake Superior,Great Lakes,Great Lakes Province,Y,0.003,,0.322,0.003,,,0.319,,,,,,,0.419375,0.0
+1129,LA,2010-08-15,Black Bay,Gulf,Louisianian Province,Y,0.016,24.58,0.037,0.095,,,0.021,,,,,,,0.9125,0.17061625
+1136,MI,2010-07-27,Lake Huron,Great Lakes,Great Lakes Province,Y,0.005,1.05,0.048,0.009,,,0.043,,,,,,,0.33375,0.01187
+1138,WA,2010-09-15,Willapa Bay,West,Columbian Province,Y,0.012,1.74,0.023,0.042,,,0.011,,,,,,,0.17125,0.05163125
+1139,WA,2010-09-02,Grays Harbor,West,Columbian Province,Y,0.024,2.59,0.101,0.046,,,0.077,,,,,,,0.61,0.06314125
+1140,WA,2010-08-31,Grays Harbor,West,Columbian Province,Y,0.039,4.54,0.191,0.042,,,0.152,,,,,,,0.363,0.04637
+1141,WA,2010-08-26,Willapa Bay,West,Columbian Province,Y,0.006,10.25,0.021,0.037,,,0.015,,,,,,,0.355,0.073755
+1142,WA,2010-09-10,Willapa Bay,West,Columbian Province,Y,0.042,5.93,0.084,0.042,,,0.042,,,,,,,0.3675,0.07255625
+1143,WA,2010-09-09,Willapa Bay,West,Columbian Province,Y,0.027,2.86,0.039,0.061,,,0.012,,,,,,,0.37375,0.0986725
+1144,WA,2010-08-09,Grays Harbor,West,Columbian Province,Y,0.022,10.15,0.089,0.042,,,0.067,,,,,,,0.4425,0.06353875
+1145,WA,2010-08-17,Makah Bay,West,Columbian Province,Y,0.009,10.34,0.143,0.037,,,0.134,,,,,,,0.41375,0.06721375
+1146,WA,2010-08-20,Cormorant Passage,West,Columbian Province,Y,0.015,8.43,0.124,0.049,,,0.109,,,,,,,0.515,0.07329875
+1147,WA,2010-08-13,Hammersley Inlet,West,Columbian Province,Y,0.026,8.72,0.084,0.075,,,0.058,,,,,,,0.36375,0.0889825
+1148,WA,2010-09-20,Grays Harbor,West,Columbian Province,Y,0.074,3.93,0.167,0.042,,,0.093,,,,,,,0.3525,0.05297625
+1149,WA,2010-08-24,Willapa Bay,West,Columbian Province,Y,0.006,3.65,0.019,0.05,,,0.013,,,,,,,0.25,0.07371125
+1150,WA,2010-09-16,Willapa Bay,West,Columbian Province,Y,0.029,3.25,0.047,0.052,,,0.018,,,,,,,,
+1151,WA,2010-08-30,Grays Harbor,West,Columbian Province,Y,0.035,8.11,0.113,0.026,,,0.078,,,,,,,0.41,0.06235875
+1152,WA,2010-09-01,Grays Harbor,West,Columbian Province,Y,0.008,0.75,0.021,0.02,,,0.013,,,,,,,0.34375,0.05671
+1153,WA,2010-08-23,Willapa Bay,West,Columbian Province,Y,0.01,3.85,0.023,0.051,,,0.013,,,,,,,0.2875,0.070885
+1154,WA,2010-08-23,Willapa Bay,West,Columbian Province,Y,0.012,6.7,0.024,0.04,,,0.012,,,,,,,0.325,0.0639025
+1155,WA,2010-08-09,Grays Harbor,West,Columbian Province,Y,0.025,4.8,0.266,0.059,,,0.241,,,,,,,0.55625,0.07223625
+1156,WA,2010-09-08,Willapa Bay,West,Columbian Province,Y,0.025,4.0,0.039,0.055,,,0.014,,,,,,,0.38625,0.09933125
+1157,WA,2010-08-30,Grays Harbor,West,Columbian Province,Y,0.015,6.47,0.142,0.046,,,0.127,,,,,,,0.3975,0.0716075
+1158,WA,2010-08-25,Willapa Bay,West,Columbian Province,Y,0.008,9.66,0.028,0.035,,,0.02,,,,,,,0.39625,0.0724175
+1159,WA,2010-08-25,Palix River,West,Columbian Province,Y,0.01,9.78,0.024,0.04,,,0.014,,,,,,,0.34125,0.07432
+1160,WA,2010-08-09,Grays Harbor,West,Columbian Province,Y,0.009,9.06,0.171,0.051,,,0.162,,,,,,,0.49375,0.06434875
+1161,WA,2010-08-18,Skagit Bay,West,Columbian Province,Y,0.002,12.36,0.011,0.033,,,0.009,,,,,,,0.28,0.076725
+1162,WA,2010-09-14,Puget Sound,West,Columbian Province,Y,0.028,1.79,0.234,0.076,,,0.206,,,,,,,0.42,0.069223
+1163,WA,2010-08-16,Strait of Juan de Fuca,West,Columbian Province,Y,0.018,0.58,0.374,0.078,,,0.356,,,,,,,0.58625,0.0761825
+1165,WA,2010-08-13,Hammersley Inlet,West,Columbian Province,Y,0.022,10.15,0.062,0.076,,,0.04,,,,,,,0.39,0.0936975
+1172,LA,2010-07-30,Vermilion Bay,Gulf,Louisianian Province,Y,0.034,29.7856,0.426,0.081,,,0.392,,,,,,,1.075,0.1765725
+1174,LA,2010-07-28,West Cote Blanche Bay,Gulf,Louisianian Province,Y,0.035,8.49,0.731,0.079,,,0.696,,,,,,,1.15375,0.14318625
+1176,LA,2010-08-26,East Cote Blanche Bay,Gulf,Louisianian Province,Y,0.004,25.16,0.23,0.099,,,0.226,,,,,,,0.9425,0.174685
+1177,LA,2010-08-26,Atchafalaya Bay,Gulf,Louisianian Province,Y,0.004,17.14,0.928,0.123,,,0.924,,,,,,,1.278,0.1587525
+1178,LA,2010-08-30,East Cote Blanche Bay,Gulf,Louisianian Province,Y,0.038,8.1,1.426,0.146,,,1.388,,,,,,,1.458,0.1795775
+1179,LA,2010-07-28,West Cote Blanche Bay,Gulf,Louisianian Province,Y,0.039,23.22,0.687,0.075,,,0.648,,,,,,,1.318,0.16047875
+1181,LA,2010-08-30,Atchafalaya Bay,Gulf,Louisianian Province,Y,0.084,8.02,0.883,0.142,,,0.799,,,,,,,1.263,0.16820625
+1182,LA,2010-08-31,West Cote Blanche Bay,Gulf,Louisianian Province,Y,0.091,14.26,0.699,0.101,,,0.608,,,,,,,1.313,0.172325
+1183,LA,2010-08-31,West Cote Blanche Bay,Gulf,Louisianian Province,Y,0.077,9.84,0.637,0.097,,,0.56,,,,,,,1.12,0.1681325
+1184,LA,2010-08-24,Lake Palourde,Gulf,Louisianian Province,Y,0.004,56.99,0.004,0.059,,,0.0,,,,,,,1.328,0.22286375
+1187,LA,2010-08-31,California Bay,Gulf,Louisianian Province,Y,0.1,15.08,0.968,0.195,,,0.868,,,,,,,1.468,0.24187875
+1189,LA,2010-08-20,Chandeleur Sound,Gulf,Louisianian Province,Y,0.003,21.89,0.01,0.063,,,0.007,,,,,,,0.79,0.1316575
+1190,LA,2010-08-23,Chandeleur Sound,Gulf,Louisianian Province,Y,0.008,9.98,0.017,0.047,,,0.009,,,,,,,0.525,0.0976775
+1191,LA,2010-08-31,Bay Gardene,Gulf,Louisianian Province,Y,0.098,17.57,0.294,0.141,,,0.196,,,,,,,1.0425,0.23416
+1192,LA,2010-09-09,Breton Sound,Gulf,Louisianian Province,Y,0.004,14.14,1.34,0.164,,,1.336,,,,,,,1.678,0.21988
+1193,LA,2010-09-02,Breton Sound,Gulf,Louisianian Province,Y,0.004,9.08,0.004,0.006,,,0.0,,,,,,,0.52375,0.048795
+1194,LA,2010-09-02,Breton Sound,Gulf,Louisianian Province,Y,0.005,29.12,0.102,0.048,,,0.097,,,,,,,0.8275,0.13369
+1195,LA,2010-08-22,Chandeleur Sound,Gulf,Louisianian Province,Y,0.011,23.73,0.018,0.072,,,0.007,,,,,,,0.99875,0.175295
+1196,LA,2010-09-09,Breton Sound,Gulf,Louisianian Province,Y,0.008,3.93,0.017,0.007,,,0.009,,,,,,,0.38625,0.03325375
+1197,LA,2010-09-08,Breton Sound,Gulf,Louisianian Province,Y,0.007,52.37,0.731,0.094,,,0.724,,,,,,,1.545,0.21602625
+1198,LA,2010-08-05,False Mouth Bay,Gulf,Louisianian Province,Y,0.005,16.24,0.009,0.049,,,0.004,,,,,,,0.7625,0.110208
+1199,LA,2010-09-15,Chandeleur Sound,Gulf,Louisianian Province,Y,0.009,5.44,0.025,0.019,,,0.016,,,,,,,0.3475,0.03303875
+1200,LA,2010-08-23,Chandeleur Sound,Gulf,Louisianian Province,Y,0.007,22.91,0.011,0.061,,,0.004,,,,,,,0.89,0.16447125
+1201,LA,2010-09-08,Breton Sound,Gulf,Louisianian Province,Y,0.004,44.6,0.91,0.13,,,0.906,,,,,,,1.58,0.22740625
+1202,LA,2010-08-25,Chandeleur Sound,Gulf,Louisianian Province,Y,0.004,7.3,0.014,0.018,,,0.01,,,,,,,0.47375,0.063845
+1203,LA,2010-08-20,Chandeleur Sound,Gulf,Louisianian Province,Y,0.003,20.66,0.011,0.061,,,0.008,,,,,,,0.805,0.1344775
+1204,LA,2010-08-24,Lake Athanasio,Gulf,Louisianian Province,Y,0.006,24.34,0.006,0.096,,,0.0,,,,,,,0.87125,0.203495
+1205,LA,2010-08-15,Lake Calebasse,Gulf,Louisianian Province,Y,0.007,42.96,0.014,0.083,,,0.007,,,,,,,1.393,0.23800375
+1206,LA,2010-08-25,Chandeleur Sound,Gulf,Louisianian Province,Y,0.005,7.37,0.017,0.009,,,0.012,,,,,,,0.4725,0.05700375
+1207,TX,2010-09-14,Corpus Christi Bay,Gulf,Louisianian Province,Y,0.008,3.74,0.019,0.026,,,0.011,,,,,,,0.545,0.0423275
+1208,TX,2010-09-12,Corpus Christi Bay,Gulf,Louisianian Province,Y,0.007,5.54,0.019,0.024,,,0.012,,,,,,,0.5625,0.04704875
+1209,TX,2010-09-14,Corpus Christi Bay,Gulf,Louisianian Province,Y,0.007,4.93,0.007,0.026,,,0.0,,,,,,,0.49875,0.04857125
+1210,TX,2010-09-12,Corpus Christi Bay,Gulf,Louisianian Province,Y,0.008,4.66,0.021,0.017,,,0.013,,,,,,,0.6575,0.03000625
+1211,TX,2010-09-13,Nueches Bay,Gulf,Louisianian Province,Y,0.009,12.17,0.009,0.115,,,0.0,,,,,,,0.81625,0.16107125
+1212,TX,2010-08-24,Carancahua Bay,Gulf,Louisianian Province,Y,0.007,17.23,0.007,0.139,,,0.0,,,,,,,0.975,0.21877625
+1213,TX,2010-08-23,Matagorda Bay,Gulf,Louisianian Province,Y,0.01,10.02,0.025,0.029,,,0.015,,,,,,,0.4525,0.06495
+1214,TX,2010-08-25,Lavaca Bay,Gulf,Louisianian Province,Y,0.006,12.58,0.006,0.084,,,0.0,,,,,,,0.7925,0.1304875
+1215,TX,2010-08-24,Carancahua Bay,Gulf,Louisianian Province,Y,0.006,14.41,0.009,0.088,,,0.003,,,,,,,0.7525,0.14412
+1216,TX,2010-08-23,Matagorda Bay,Gulf,Louisianian Province,Y,0.01,11.63,0.023,0.039,,,0.013,,,,,,,0.55375,0.08171
+1219,LA,2010-08-22,Pass A Loutre,Gulf,Louisianian Province,Y,0.007,60.35,0.319,0.045,,,0.312,,,,,,,1.248,0.22605125
+1223,LA,2010-08-23,South Pass,Gulf,Louisianian Province,Y,0.003,3.07,2.201,0.16,,,2.198,,,,,,,2.093,0.25604375
+1225,LA,2010-08-08,Lake Borgne,Gulf,Louisianian Province,Y,0.006,9.45,0.01,0.083,,,0.004,,,,,,,0.56625,0.132206
+1227,LA,2010-08-08,Lake Borgne,Gulf,Louisianian Province,Y,0.004,8.53,0.008,0.088,,,0.004,,,,,,,0.4675,0.12175625
+1228,LA,2010-08-25,White Lake,Gulf,Louisianian Province,Y,0.001,6.38,0.001,0.015,,,0.0,,,,,,,0.495,0.0413525
+1230,LA,2010-08-17,Calcasieu Lake,Gulf,Louisianian Province,Y,0.006,18.82,0.015,0.069,,,0.009,,,,,,,0.71375,0.1346625
+1232,LA,2010-08-16,Sabine Pass,Gulf,Louisianian Province,Y,0.005,12.27,0.075,0.034,,,0.07,,,,,,,0.51875,0.07862125
+1233,LA,2010-09-02,Calcasieu Lake,Gulf,Louisianian Province,Y,0.005,20.11,0.005,0.037,,,0.0,,,,,,,0.6475,0.12869
+1235,VA,2010-07-21,Pocomoke Sound,Northeast,Virginian Province,Y,0.012,10.8,0.012,0.008,1.2,0.002,0.002,0.0,0.206,0.0313,0.18,0.01,,0.386,0.0413
+1236,VA,2010-07-22,Milford Haven,Northeast,Virginian Province,Y,0.014,18.9,0.014,0.006,1.4,0.002,0.002,0.0,0.321,0.0317,0.212,0.012,,0.533,0.0437
+1237,VA,2010-07-22,Potomac River,Northeast,Virginian Province,Y,0.011,11.2,0.011,0.005,1.3,0.002,0.002,0.0,0.27,0.0324,0.205,0.008,,0.475,0.0404
+1238,VA,2010-07-22,Pocomoke Sound,Northeast,Virginian Province,Y,0.03,7.24,0.036,0.008,1.6,0.006,0.006,0.0,0.152,0.0362,0.218,0.01,,0.37,0.0462
+1239,VA,2010-07-20,Pocomoke Sound,Northeast,Virginian Province,Y,0.022,6.78,0.022,0.012,1.1,0.003,0.003,0.0,0.12,0.0435,0.175,0.013,,0.295,0.0565
+1240,VA,2010-07-21,Milford Haven,Northeast,Virginian Province,Y,0.012,10.6,0.016,0.006,1.7,0.004,0.004,0.0,0.211,0.0446,0.207,0.008,,0.418,0.0526
+1241,VA,2010-07-20,Pocomoke Sound,Northeast,Virginian Province,Y,0.012,8.19,0.012,0.008,1.0,0.003,0.003,0.0,0.179,0.054,0.185,0.009,,0.364,0.063
+1242,NJ,2010-08-17,Maurice River,Northeast,Virginian Province,Y,0.064,5.31,1.42,0.008,,,1.356,,,,,,,1.44,0.05186375
+1245,NJ,2010-09-15,Delaware Bay,Northeast,Virginian Province,Y,0.048,8.55,0.197,0.042,,,0.149,,,,,,,0.6075,0.0694525
+1247,DE,2010-09-20,Delaware River,Northeast,Virginian Province,Y,0.004,7.11,1.536,0.099,,,1.532,,,,,,,1.685,0.15322125
+1248,DE,2010-08-30,Delaware Bay,Northeast,Virginian Province,Y,0.005,13.12,0.58,0.076,,,0.575,,,,,,,0.98,0.10636375
+1249,DE,2010-09-02,Delaware Bay,Northeast,Virginian Province,Y,0.006,13.33,0.017,0.021,,,0.011,,,,,,,0.60875,0.07488
+1251,VA,2010-09-16,Hog Island Bay,Northeast,Virginian Province,Y,0.008,6.05,0.017,0.027,1.6,0.008,0.009,0.001,0.161,0.09,0.218,0.035,,0.379,0.125
+1252,LA,2010-08-26,Atchafalaya Bay,Gulf,Louisianian Province,Y,0.069,5.01,1.097,0.153,,,1.028,,,,,,,1.468,0.19619625
+1253,LA,2010-09-01,West Cote Blanche Bay,Gulf,Louisianian Province,Y,0.003,19.82,1.219,0.139,,,1.216,,,,,,,1.493,0.2145775
+1261,WA,2010-09-15,Baker Bay,West,Columbian Province,Y,0.011,11.03,0.069,0.029,,,0.058,,,,,,,0.51125,0.11529625
+1263,WA,2010-07-13,Baker Bay,West,Columbian Province,Y,0.028,2.54,0.151,0.034,,,0.123,,,,,,,0.32375,0.04756125
+1266,LA,2010-08-30,East Cote Blanche Bay,Gulf,Louisianian Province,Y,0.058,5.65,1.041,0.154,,,0.983,,,,,,,1.453,0.18352875
+1267,TX,2010-09-12,Corpus Christi Bay,Gulf,Louisianian Province,Y,0.007,6.08,0.02,0.026,,,0.013,,,,,,,0.59125,0.051125
+1268,TX,2010-09-13,Corpus Christi Bay,Gulf,Louisianian Province,Y,0.009,11.55,0.021,0.033,,,0.012,,,,,,,0.6275,0.0727675
+1269,TX,2010-09-13,Nueches Bay,Gulf,Louisianian Province,Y,0.011,22.71,0.014,0.115,,,0.003,,,,,,,1.10625,0.20578875
+1271,LA,2010-08-22,Blind Bay #2,Gulf,Louisianian Province,Y,0.004,22.09,1.065,0.155,,,1.061,,,,,,,1.59,0.19528875
+1272,LA,2010-08-22,Pass A Loutre,Gulf,Louisianian Province,Y,0.002,2.97,2.042,0.197,,,2.04,,,,,,,2.223,0.268655
+1273,LA,2010-08-23,East Bay (Miss),Gulf,Louisianian Province,Y,0.009,29.25,0.438,0.047,,,0.429,,,,,,,1.09375,0.12573
+1274,LA,2010-08-17,Calcasieu Lake,Gulf,Louisianian Province,Y,0.005,15.9,0.014,0.058,,,0.009,,,,,,,0.6675,0.1193525
+1275,DE,2010-09-13,Delaware Bay,Northeast,Virginian Province,Y,0.059,8.58,0.09,0.037,,,0.031,,,,,,,0.52125,0.07211875
+1276,CA,2010-08-30,Lower South Bay,West,Californian Province,Y,0.054,8.02,0.532,0.37,,,0.478,,,,,,,1.04125,0.399448
+1277,CA,2010-08-31,South Bay,West,Californian Province,Y,0.09,4.54,0.289,0.254,,,0.199,,,,,,,0.66125,0.26727
+1278,CA,2010-08-26,CentralBay,West,Californian Province,Y,0.063,3.68,0.332,0.092,,,0.269,,,,,,,0.6225,0.10971625
+1279,CA,2010-08-24,San Pablo Bay,West,Californian Province,Y,0.068,2.33,0.419,0.116,,,0.351,,,,,,,0.69125,0.12408625
+1280,CA,2010-08-24,Suisun Bay,West,Californian Province,Y,0.023,1.66,0.4,0.116,,,0.377,,,,,,,0.6025,0.1095275
+1281,CA,2010-08-23,Suisun Bay,West,Californian Province,Y,0.036,3.34,0.23,0.055,,,0.194,,,,,,,0.43,0.08884375
+1282,CA,2010-08-23,Suisun Bay,West,Californian Province,Y,0.024,2.2,0.226,0.06,,,0.202,,,,,,,0.43625,0.09330625
+1283,CA,2010-09-01,CentralBay,West,Californian Province,Y,0.061,2.16,0.363,0.097,,,0.302,,,,,,,0.56625,0.099705
+1284,CA,2010-09-01,CentralBay,West,Californian Province,Y,0.023,8.16,0.294,0.1,,,0.271,,,,,,,0.655,0.1356525
+1285,CA,2010-09-01,CentralBay,West,Californian Province,Y,0.027,4.41,0.346,0.104,,,0.319,,,,,,,0.61375,0.12433625
+1286,CA,2010-09-01,CentralBay,West,Californian Province,Y,0.078,4.28,0.354,0.089,,,0.276,,,,,,,0.58,0.10251125
+1287,CA,2010-08-30,Lower South Bay,West,Californian Province,Y,0.026,9.49,0.336,0.317,,,0.31,,,,,,,0.84625,0.350375
+1288,CA,2010-08-30,Lower South Bay,West,Californian Province,Y,0.019,10.68,0.272,0.296,,,0.253,,,,,,,0.82375,0.340948
+1289,CA,2010-08-30,Lower South Bay,West,Californian Province,Y,0.051,7.84,0.442,0.36,,,0.391,,,,,,,1.193,0.409495
+1290,CA,2010-08-30,Lower South Bay,West,Californian Province,Y,0.036,9.11,0.475,0.347,,,0.439,,,,,,,1.0175,0.432585
+1291,CA,2010-08-31,South Bay,West,Californian Province,Y,0.031,8.88,0.25,0.207,,,0.219,,,,,,,0.68,0.28596
+1292,CA,2010-08-27,South Bay,West,Californian Province,Y,0.009,7.65,0.194,0.233,,,0.185,,,,,,,0.65,0.28090125
+1293,CA,2010-08-27,South Bay,West,Californian Province,Y,0.014,5.26,0.321,0.242,,,0.307,,,,,,,0.725,0.255725
+1294,CA,2010-08-27,South Bay,West,Californian Province,Y,0.005,13.4,0.121,0.23,,,0.116,,,,,,,0.57625,0.25988125
+1295,CA,2010-08-31,San Pablo Bay,West,Californian Province,Y,0.044,2.29,0.357,0.107,,,0.313,,,,,,,0.56375,0.11279875
+1296,CA,2010-08-24,San Pablo Bay,West,Californian Province,Y,0.079,1.61,0.434,0.12,,,0.355,,,,,,,0.69375,0.13749125
+1297,CA,2010-08-24,San Pablo Bay,West,Californian Province,Y,0.085,1.92,0.441,0.12,,,0.356,,,,,,,0.7225,0.14232875
+1298,CA,2010-08-31,San Pablo Bay,West,Californian Province,Y,0.062,3.77,0.406,0.112,,,0.344,,,,,,,0.63625,0.12271875
+1299,CA,2010-08-23,Suisun Bay,West,Californian Province,Y,0.034,1.86,0.391,0.11,,,0.357,,,,,,,0.59,0.10676375
+1300,CA,2010-08-24,Suisun Bay,West,Californian Province,Y,0.023,1.45,0.403,0.118,,,0.38,,,,,,,0.60125,0.10886375
+1301,CA,2010-08-23,Suisun Bay,West,Californian Province,Y,0.047,1.58,0.442,0.123,,,0.395,,,,,,,0.6575,0.1224175
+1302,CA,2010-08-23,Suisun Bay,West,Californian Province,Y,0.037,1.63,0.364,0.108,,,0.327,,,,,,,0.5575,0.10739625
+1303,WI,2010-09-09,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,1.54,0.341,0.004,,,0.337,,,,,,,0.47,0.00558
+1304,MN,2010-08-28,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,0.65,0.376,0.004,,,0.375,,,,,,,0.46125,0.00358875
+1305,MN,2010-08-26,Lake Superior,Great Lakes,Great Lakes Province,Y,0.003,1.24,0.389,0.003,,,0.386,,,,,,,0.49625,0.00339375
+1306,WI,2010-08-19,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,0.56,0.327,0.0,,,0.327,,,,,,0.32,0.647,0.003
+1308,MN,2010-08-30,Lake Superior,Great Lakes,Great Lakes Province,Y,0.005,0.52,0.356,0.005,,,0.351,,,,,,,0.48,0.00518875
+1309,WI,2010-08-11,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,1.28,0.208,0.0,,,0.208,,,,,,0.0,0.208,0.0032
+1310,MN,2010-08-25,Lake Superior,Great Lakes,Great Lakes Province,Y,0.003,0.87,0.367,0.002,,,0.364,,,,,,,0.50375,0.00306125
+1311,MN,2010-08-27,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,0.54,0.387,0.002,,,0.385,,,,,,,0.48375,0.00287625
+1343,WI,2010-08-11,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,1.16,0.19,0.0,,,0.19,,,,,,0.21,0.4,0.0032
+1344,MN,2010-08-25,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,0.67,0.387,0.002,,,0.385,,,,,,,0.475,0.0031175
+1345,WI,2010-08-09,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,0.46,0.312,0.0,,,0.312,,,,,,0.19,0.502,0.0025
+1347,WI,2010-09-01,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.0,4.76,0.046,0.0,,,0.046,,,,,,0.4,0.446,0.0109
+1348,WI,2010-08-24,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.0,12.3,0.0,0.0,,,0.0,,,,,,0.61,0.61,0.0253
+1349,WI,2010-08-24,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.018,1.17,0.138,0.0,,,0.12,,,,,,0.36,0.48,0.0054
+1350,WI,2010-08-18,Lake Superior,Great Lakes,Great Lakes Province,Y,0.047,2.37,0.24,0.027,,,0.193,,,,,,0.77,0.963,0.0541
+1351,WI,2010-08-11,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,2.02,0.219,0.0,,,0.219,,,,,,0.22,0.439,0.004
+1352,MN,2010-08-29,Lake Superior,Great Lakes,Great Lakes Province,Y,0.007,0.61,0.352,0.004,,,0.345,,,,,,,0.48375,0.005285
+1353,WI,2010-08-10,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,0.47,0.258,0.0,,,0.258,,,,,,0.18,0.438,0.0019
+1354,WI,2010-08-09,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,0.64,0.295,0.0,,,0.295,,,,,,0.0,0.295,0.0033
+1355,WI,2010-08-12,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,0.64,0.287,0.0,,,0.287,,,,,,0.19,0.477,0.0022
+1356,WI,2010-09-08,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,0.78,0.339,0.0,,,0.339,,,,,,0.0,0.339,0.0025
+1357,WI,2010-08-10,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,0.74,0.297,0.0,,,0.297,,,,,,0.16,0.457,0.0024
+1359,WI,2010-09-01,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.024,4.22,0.175,0.0,,,0.151,,,,,,0.42,0.571,0.0132
+1360,WI,2010-09-08,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,2.82,0.351,0.004,,,0.349,,,,,,,0.48625,0.00881375
+1361,MI,2010-08-30,Lake Superior,Great Lakes,Great Lakes Province,Y,0.032,9.29,0.252,0.02,,,0.22,,,,,,,1.00375,0.0549725
+1362,WI,2010-09-10,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,1.93,0.177,0.003,,,0.173,,,,,,,0.40375,0.0097925
+1364,WI,2010-09-13,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,0.94,0.372,0.005,,,0.37,,,,,,,0.51125,0.0
+1367,WI,2010-09-12,Lake Superior,Great Lakes,Great Lakes Province,Y,0.003,1.06,0.368,0.004,,,0.365,,,,,,,0.51875,0.00530625
+1371,NJ,2010-09-02,Raritan Bay,Northeast,Virginian Province,Y,0.069,73.07,0.494,0.14,,,0.425,,,,,,,1.398,0.27027
+1372,NJ,2010-08-26,Great Sound,Northeast,Virginian Province,Y,0.07,9.88,0.087,0.031,,,0.017,,,,,,,0.51375,0.07351625
+1510,OR,2010-08-17,Youngs Bay,West,Columbian Province,Y,0.034,2.92,0.124,0.039,,,0.09,,,,,,,0.24125,0.0407
+1511,OR,2010-06-10,Youngs Bay,West,Columbian Province,Y,0.008,7.46,0.232,0.037,,,0.224,,,,,,,0.32625,0.08886375
+1512,OR,2010-08-10,Netarts Bay,West,Columbian Province,Y,0.017,1.87,0.037,0.065,,,0.02,,,,,,,0.42875,0.0927025
+1514,TX,2010-09-22,Laguna Madre,Gulf,Louisianian Province,Y,0.01,2.31,0.031,0.026,,,0.021,,,,,,,0.2925,0.04069875
+1515,TX,2010-09-20,Baffin Bay,Gulf,Louisianian Province,Y,0.024,30.93,0.03,0.028,,,0.006,,,,,,,1.02125,0.0518175
+1516,TX,2010-09-22,Laguna Madre,Gulf,Louisianian Province,Y,0.009,10.0,0.023,0.007,,,0.014,,,,,,,0.50625,0.0446525
+1517,TX,2010-09-21,Laguna Madre,Gulf,Louisianian Province,Y,0.031,15.52,0.043,0.032,,,0.012,,,,,,,0.81625,0.03476375
+1522,CT,2010-09-13,Long Island Sound,Northeast,Virginian Province,Y,0.017,3.7,0.042,0.034,,0.017,0.025,0.008,,,,,,0.165,0.045
+1524,NY,2010-09-16,Long Island Sound,Northeast,Virginian Province,Y,0.0,4.0,0.042,0.047,,0.02,0.042,0.022,,,,,,0.146,0.052
+1526,CT,2010-09-14,Long Island Sound,Northeast,Virginian Province,Y,0.0,1.3,0.047,0.049,,0.019,0.047,0.028,,,,,,0.209,0.063
+1527,NY,2010-09-21,Long Island Sound,Northeast,Virginian Province,Y,0.0,1.7,0.029,0.027,,0.008,0.029,0.021,,,,,,0.13,0.036
+1528,CT,2010-09-14,Long Island Sound,Northeast,Virginian Province,Y,0.0,2.5,0.076,0.058,,0.032,0.076,0.044,,,,,,0.233,0.076
+1529,NY,2010-09-14,Long Island Sound,Northeast,Virginian Province,Y,0.0,3.4,0.043,0.049,,0.021,0.043,0.022,,,,,,0.227,0.061
+1530,CT,2010-09-13,Long Island Sound,Northeast,Virginian Province,Y,0.017,5.6,0.034,0.032,,0.004,0.017,0.013,,,,,,0.221,0.052
+1531,NY,2010-09-16,Long Island Sound,Northeast,Virginian Province,Y,0.0,1.0,0.055,0.049,,0.038,0.055,0.017,,,,,,0.202,0.065
+1532,CT,2010-09-29,Thames River,Northeast,Virginian Province,Y,0.026,5.3,0.043,0.029,,0.006,0.017,0.011,,,,,,0.31,0.067
+1533,NY,2010-09-21,Long Island Sound,Northeast,Virginian Province,Y,0.0,1.8,0.037,0.03,,0.01,0.037,0.027,,,,,,0.176,0.047
+1534,NY,2010-09-16,Long Island Sound,Northeast,Virginian Province,Y,0.0,2.7,0.037,0.062,,0.007,0.037,0.03,,,,,,0.174,0.063
+1535,MD,2010-08-03,Isle Of Wight Bay,Northeast,Virginian Province,Y,0.007,6.07,0.0092,0.0176,,,0.0092,,,,,,,0.74,0.0804
+1537,MD,2010-08-02,Assawoman Bay,Northeast,Virginian Province,Y,0.0,10.16,0.0027,0.0199,,,0.0027,,,,,,,0.66,0.0845
+1538,MD,2010-08-02,Isle Of Wight Bay,Northeast,Virginian Province,Y,0.007,15.61,0.0037,0.015,,,0.0037,,,,,,,0.7,0.0913
+1539,MD,2010-08-05,Chincoteague Bay,Northeast,Virginian Province,Y,0.0,8.86,0.0028,0.0294,,,0.0028,,,,,,,0.42,0.0829
+1540,MD,2010-08-03,Chincoteague Bay,Northeast,Virginian Province,Y,0.0,4.63,0.0035,0.0041,,,0.0035,,,,,,,0.53,0.044
+1541,TX,2010-09-20,Baffin Bay,Gulf,Louisianian Province,Y,0.025,23.51,0.032,0.024,,,0.007,,,,,,,0.95375,0.06220375
+1542,TX,2010-09-20,Alazan Bay,Gulf,Louisianian Province,Y,0.042,12.76,0.149,0.116,,,0.107,,,,,,,0.8825,0.143675
+1545,NY,2010-08-15,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.015,3.32,0.303,0.005,,,0.288,,,,,,,0.50625,0.0057075
+1548,NY,2010-08-07,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.009,2.0,0.227,0.002,,,0.218,,,,,,,0.44625,0.005466
+1549,NY,2010-08-18,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.001,3.9,0.2,0.002,,,0.199,,,,,,,0.405,0.0105375
+1551,NY,2010-08-11,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.008,2.22,0.204,0.007,,,0.196,,,,,,,0.45875,0.00564125
+1552,NY,2010-09-26,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.012,1.7,0.257,0.002,,,0.245,,,,,,,0.37375,0.00654875
+1553,NY,2010-08-19,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.004,3.04,0.193,0.002,,,0.189,,,,,,,0.4175,0.0097975
+1554,NY,2010-09-23,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.002,4.37,0.209,0.003,,,0.207,,,,,,,0.36375,0.005675
+1555,NY,2010-09-12,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.033,3.48,0.35,0.002,,,0.317,,,,,,,0.5875,0.0115225
+1556,NY,2010-09-18,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.018,1.41,0.264,0.003,,,0.246,,,,,,,0.43375,0.00969875
+1557,NY,2010-08-09,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.009,3.81,0.236,0.003,,,0.227,,,,,,,0.46125,0.00869
+1558,NY,2010-08-13,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.008,2.3,0.22,0.002,,,0.212,,,,,,,0.46125,0.00552625
+1559,NY,2010-09-27,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.009,3.05,0.261,0.002,,,0.252,,,,,,,0.41,0.00749125
+1560,NY,2010-06-22,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.005,1.42,0.25,0.004,,,0.245,,,,,,,0.388125,0.003385625
+1561,NY,2010-09-11,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.017,2.08,0.263,0.003,,,0.246,,,,,,,0.505,0.011905
+1577,NY,2010-09-27,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.006,3.57,0.253,0.001,,,0.247,,,,,,,0.395,0.00747375
+1578,NY,2010-08-14,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.026,1.58,0.275,0.003,,,0.249,,,,,,,0.48375,0.00455
+1579,NY,2010-08-08,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.013,1.93,0.225,0.002,,,0.212,,,,,,,0.44375,0.006265
+1580,NY,2010-06-23,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.009,1.65,0.272,0.005,,,0.263,,,,,,,0.409375,0.002215625
+1581,NY,2010-09-23,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.007,3.21,0.231,0.003,,,0.224,,,,,,,0.36875,0.006395
+1582,NY,2010-09-26,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.002,3.21,0.244,0.002,,,0.242,,,,,,,0.37375,0.00583375
+1583,NY,2010-09-12,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.015,3.55,0.245,0.002,,,0.23,,,,,,,0.6175,0.03928875
+1584,NY,2010-08-14,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.029,1.47,0.301,0.004,,,0.272,,,,,,,0.4875,0.01105125
+1585,NY,2010-08-10,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.01,2.35,0.216,0.004,,,0.206,,,,,,,0.43,0.005745
+1586,NY,2010-09-11,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.019,1.66,0.27,0.003,,,0.251,,,,,,,0.50875,0.01181875
+1587,NY,2010-09-18,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.013,2.04,0.273,0.004,,,0.26,,,,,,,0.435,0.01028625
+1588,NY,2010-09-08,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.0,16.73,0.011,0.009,,,0.011,,,,,,,0.64875,0.06290375
+1589,NY,2010-08-17,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.002,48.4,0.002,0.003,,,0.0,,,,,,,0.9025,0.07088625
+1590,NY,2010-09-09,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.087,12.03,0.154,0.008,,,0.067,,,,,,,0.64875,0.03815125
+1591,NY,2010-06-12,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.009,1.8,0.176,0.002,,,0.167,,,,,,,0.35375,0.00738625
+1592,NY,2010-06-09,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.041,4.24,0.33,0.014,,,0.289,,,,,,,0.52625,0.03831
+1593,NY,2010-06-17,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.004,13.63,0.004,0.007,,,0.0,,,,,,,0.35625,0.0248625
+1594,NY,2010-09-15,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.009,12.46,0.19,0.004,,,0.181,,,,,,,0.615,0.02905125
+1595,NJ,2010-09-14,Delaware Bay,Northeast,Virginian Province,Y,0.056,10.01,0.096,0.034,,,0.04,,,,,,,0.51125,0.06198375
+1596,NJ,2010-09-14,Delaware Bay,Northeast,Virginian Province,Y,0.081,10.58,0.093,0.028,,,0.012,,,,,,,0.56375,0.061455
+1597,NJ,2010-09-16,Delaware Bay,Northeast,Virginian Province,Y,0.028,1.28,1.089,0.089,,,1.061,,,,,,,1.19,0.1174925
+1598,NJ,2010-09-14,Delaware Bay,Northeast,Virginian Province,Y,0.084,7.86,0.095,0.029,,,0.011,,,,,,,0.54375,0.0700575
+1599,NJ,2010-09-14,Delaware Bay,Northeast,Virginian Province,Y,0.088,11.67,0.123,0.029,,,0.035,,,,,,,0.62375,0.06466375
+1600,NJ,2010-09-15,Delaware Bay,Northeast,Virginian Province,Y,0.034,9.71,0.355,0.05,,,0.321,,,,,,,0.645,0.07628625
+1601,NJ,2010-09-02,Lower Ny/Nj Bay,Northeast,Virginian Province,Y,0.024,120.37,0.276,0.107,,,0.252,,,,,,,1.695,0.339075
+1602,NJ,2010-09-02,Newark Bay,Northeast,Virginian Province,Y,0.343,7.33,1.144,0.235,,,0.801,,,,,,,1.443,0.27319875
+1605,NJ,2010-07-27,Shrewsbury River,Northeast,Virginian Province,Y,0.024,33.51,0.041,0.143,,,0.017,,,,,,,0.86375,0.2558625
+1606,NJ,2010-07-27,Lower Ny/Nj Bay,Northeast,Virginian Province,Y,0.052,36.95,0.126,0.062,,,0.074,,,,,,,1.02875,0.18331
+1607,NJ,2010-07-27,Navesink River,Northeast,Virginian Province,Y,0.167,22.63,0.239,0.284,,,0.072,,,,,,,1.065,0.411906
+1608,NJ,2010-07-29,West / East Creeks,Northeast,Virginian Province,Y,0.098,20.29,0.967,0.101,,,0.869,,,,,,,2.005,0.24391125
+1624,NY,2010-09-13,Long Island Sound,Northeast,Virginian Province,Y,0.0,2.4,0.04,0.04,,0.004,0.04,0.036,,,,,,0.163,0.051
+1633,NJ,2010-07-28,Mannington Meadow,Northeast,Virginian Province,Y,0.044,28.41,0.904,0.06,,,0.86,,,,,,,1.685,0.23533
+1634,NJ,2010-07-29,Cohansey River,Northeast,Virginian Province,Y,0.013,9.49,0.454,0.092,,,0.441,,,,,,,1.03,0.1755675
+1635,NJ,2010-08-03,Great Egg Harbor,Northeast,Virginian Province,Y,0.08,5.87,0.102,0.039,,,0.022,,,,,,,0.646875,0.0831975
+1636,NJ,2010-08-04,Barnegat Bay,Northeast,Virginian Province,Y,0.081,8.53,0.096,0.007,,,0.015,,,,,,,0.605,0.063949375
+1637,NJ,2010-08-04,Toms River,Northeast,Virginian Province,Y,0.048,16.18,0.128,0.01,,,0.08,,,,,,,0.82,0.049410625
+1638,NJ,2010-08-03,Great Egg Harbor,Northeast,Virginian Province,Y,0.038,46.23,0.054,0.052,,,0.016,,,,,,,1.024375,0.22858875
+1639,NJ,2010-08-05,Little Egg Harbor,Northeast,Virginian Province,Y,0.042,5.44,0.06,0.034,,,0.018,,,,,,,0.5375,0.082103125
+1640,NJ,2010-08-04,Barnegat Bay,Northeast,Virginian Province,Y,0.063,10.28,0.08,0.021,,,0.017,,,,,,,0.605,0.097660625
+1641,NJ,2010-08-05,Little Egg Harbor,Northeast,Virginian Province,Y,0.038,13.89,0.055,0.045,,,0.017,,,,,,,0.6575,0.118203125
+1642,RI,2010-09-16,Block Island Sound,Northeast,Virginian Province,Y,0.009,1.5,0.021,0.019,,,0.012,,,,,,,0.13,0.02365875
+1643,RI,2010-09-14,Block Island Sound,Northeast,Virginian Province,Y,0.007,1.6,0.019,0.024,,,0.012,,,,,,,0.15375,0.0206775
+1644,RI,2010-08-09,Block Island Sound,Northeast,Virginian Province,Y,0.006,1.46,0.022,0.012,,,0.016,,,,,,,0.20625,0.021065
+1646,RI,2010-08-02,Narragansett Bay,Northeast,Virginian Province,Y,0.004,2.64,0.022,0.017,,,0.018,,,,,,,0.276875,0.04356
+1647,NJ,2010-09-15,Delaware Bay,Northeast,Virginian Province,Y,0.032,13.52,0.351,0.046,,,0.319,,,,,,,0.73,0.07962625
+1648,RI,2010-08-04,Greenwich Bay,Northeast,Virginian Province,Y,0.008,19.33,0.024,0.021,,,0.016,,,,,,,0.61625,0.106521875
+1651,RI,2010-08-03,Sakonnet River,Northeast,Virginian Province,Y,0.007,8.62,0.024,0.031,,,0.017,,,,,,,0.33875,0.071770625
+1652,RI,2010-08-10,Mt. Hope Bay,Northeast,Virginian Province,Y,0.007,5.21,0.026,0.066,,,0.019,,,,,,,0.39875,0.09377375
+1653,RI,2010-08-03,Sakonnet River,Northeast,Virginian Province,Y,0.015,13.32,0.033,0.055,,,0.018,,,,,,,0.53875,0.107028125
+1654,RI,2010-07-27,Narragansett Bay,Northeast,Virginian Province,Y,0.005,8.71,0.034,0.03,,,0.029,,,,,,,0.415,0.0697675
+1655,RI,2010-07-28,Providence River,Northeast,Virginian Province,Y,0.003,12.03,0.014,0.073,,,0.011,,,,,,,0.54625,0.14101
+1657,RI,2010-07-28,Narragansett Bay,Northeast,Virginian Province,Y,0.004,8.28,0.016,0.023,,,0.012,,,,,,,0.4,0.06496875
+1658,MA,2010-10-07,Buzzards Bay,Northeast,Virginian Province,Y,0.035,5.73,0.047,0.026,,,0.012,,,,,,,0.475,0.08319
+1659,MA,2010-08-11,Buzzards Bay,Northeast,Virginian Province,Y,0.01,2.82,0.034,0.038,,,0.024,,,,,,,0.3225,0.05672
+1660,MA,2010-08-13,Buzzards Bay,Northeast,Virginian Province,Y,0.012,4.79,0.036,0.031,,,0.024,,,,,,,0.20875,0.043185
+1661,MA,2010-08-12,Buzzards Bay,Northeast,Virginian Province,Y,0.011,2.05,0.036,0.023,,,0.025,,,,,,,0.25125,0.037015
+1662,MA,2010-08-11,Buzzards Bay,Northeast,Virginian Province,Y,0.009,4.01,0.034,0.036,,,0.025,,,,,,,0.4,0.05269375
+1663,MA,2010-08-13,Buzzards Bay,Northeast,Virginian Province,Y,0.011,3.232228571,0.035,0.058,,,0.024,,,,,,,0.24625,0.078985
+1664,MA,2010-08-13,Buzzards Bay,Northeast,Virginian Province,Y,0.013,,0.037,0.031,,,0.024,,,,,,,0.28,0.04939375
+1665,MA,2010-08-28,Westport River,Northeast,Virginian Province,Y,0.007,27.92,0.007,0.02,,,0.0,,,,,,,0.9625,0.1222825
+1667,MA,2010-08-12,Buzzards Bay,Northeast,Virginian Province,Y,0.009,3.35,0.034,0.021,,,0.025,,,,,,,0.28,0.03051
+1668,MA,2010-08-12,Buzzards Bay,Northeast,Virginian Province,Y,0.01,,0.034,0.028,,,0.024,,,,,,,0.26375,0.04201
+1669,MA,2010-08-11,Buzzards Bay,Northeast,Virginian Province,Y,0.011,2.8,0.035,0.036,,,0.024,,,,,,,0.2975,0.0499275
+1672,MA,2010-08-19,Cape Cod Bay,Northeast,Acadian Province,Y,0.001,0.87,0.018,0.007,,,0.017,,,,,,,0.20625,0.0276
+1673,MA,2010-08-19,Cape Cod Bay,Northeast,Acadian Province,Y,0.002,1.91,0.019,0.012,,,0.017,,,,,,,0.25625,0.0321175
+1674,MA,2010-08-19,Cape Cod Bay,Northeast,Acadian Province,Y,0.002,1.45,0.018,0.009,,,0.016,,,,,,,0.23,0.03309
+1675,MA,2010-08-19,Cape Cod Bay,Northeast,Acadian Province,Y,0.002,2.9,0.018,0.012,,,0.016,,,,,,,0.23625,0.03543
+1676,MA,2010-08-31,Sengekontacket Pond,Northeast,Virginian Province,Y,0.005,5.21248,0.016,0.013,,,0.011,,,,,,,0.39875,0.05224375
+1678,MA,2010-08-18,Nantucket Sound,Northeast,Virginian Province,Y,0.002,3.68,0.018,0.018,,,0.016,,,,,,,0.2475,0.0331475
+1679,MA,2010-08-17,Nantucket Sound,Northeast,Virginian Province,Y,0.005,4.81,0.022,0.016,,,0.017,,,,,,,0.42,0.03825875
+1680,MA,2010-08-17,Popponesset Bay,Northeast,Virginian Province,Y,0.006,2.95,0.021,0.019,,,0.015,,,,,,,0.3,0.04830375
+1681,MA,2010-08-17,Nantucket Sound,Northeast,Virginian Province,Y,0.006,4.28,0.021,0.017,,,0.015,,,,,,,0.2575,0.04780125
+1682,MA,2010-08-18,Nantucket Sound,Northeast,Virginian Province,Y,0.002,3.252685714,0.017,0.021,,,0.015,,,,,,,0.2475,0.0639025
+1683,MA,2010-08-17,Nantucket Sound,Northeast,Virginian Province,Y,0.005,4.89,0.02,0.015,,,0.015,,,,,,,0.22625,0.04264625
+1684,MA,2010-08-18,Nantucket Sound,Northeast,Virginian Province,Y,0.002,2.086628571,0.018,0.019,,,0.016,,,,,,,0.2425,0.04249375
+1685,MD,2010-09-15,Bush River,Northeast,Virginian Province,Y,0.022,12.39,0.311,0.0177,,,0.311,,,,,,,0.73,0.0493
+1686,MD,2010-09-20,Nanticoke River,Northeast,Virginian Province,Y,0.0,5.78,0.003,0.0034,,,0.003,,,,,,,0.49,0.0387
+1687,MD,2010-09-02,Potomac River,Northeast,Virginian Province,Y,0.012,6.72,0.0023,0.0035,,,0.0023,,,,,,,0.41,0.0385
+1688,MD,2010-08-27,Magothy River,Northeast,Virginian Province,Y,0.116,33.78,0.08,0.0066,,,0.08,,,,,,,0.98,0.0685
+1689,MD,2010-10-06,Port Tobacco River,Northeast,Virginian Province,Y,0.108,8.35,0.242,0.0402,,,0.242,,,,,,,0.75,0.0748
+1690,MD,2010-09-09,Chester River,Northeast,Virginian Province,Y,0.02,19.07,0.0669,0.06,,,0.0669,,,,,,,0.71,0.1368
+1691,MD,2010-09-02,Little Choptank River,Northeast,Virginian Province,Y,0.0,6.17,0.0018,0.0028,,,0.0018,,,,,,,0.47,0.0405
+1692,MD,2010-09-01,Potomac River,Northeast,Virginian Province,Y,0.011,11.79,0.0027,0.0047,,,0.0027,,,,,,,0.44,0.0457
+1693,MD,2010-09-01,Potomac River,Northeast,Virginian Province,Y,0.011,5.35,0.0033,0.0037,,,0.0033,,,,,,,0.43,0.0394
+1694,MD,2010-09-21,Nanticoke River,Northeast,Virginian Province,Y,0.0,12.09,0.0177,0.0034,,,0.0177,,,,,,,0.46,0.0387
+1695,MD,2010-09-02,Little Choptank River,Northeast,Virginian Province,Y,0.0,19.21,0.0017,0.009,,,0.0017,,,,,,,0.59,0.0786
+1696,MD,2010-09-02,Leadenham Creek,Northeast,Virginian Province,Y,0.0,8.99,0.001,0.0023,,,0.001,,,,,,,0.48,0.0443
+1697,MD,2010-09-02,Leadenham Creek,Northeast,Virginian Province,Y,0.0,10.57,0.0099,0.0028,,,0.0099,,,,,,,0.51,0.0466
+1700,MD,2010-09-01,Nanticoke River,Northeast,Virginian Province,Y,0.018,3.66,0.0252,0.0023,,,0.0252,,,,,,,0.4,0.0314
+1701,MD,2010-09-01,Potomac River,Northeast,Virginian Province,Y,0.0,4.91,0.0044,0.0019,,,0.0044,,,,,,,0.43,0.0361
+1702,MD,2010-09-15,Bush River,Northeast,Virginian Province,Y,0.0,10.0,0.0014,0.0145,,,0.0014,,,,,,,0.52,0.0673
+1703,MD,2010-09-23,Bohemia River,Northeast,Virginian Province,Y,0.0,104.67,0.0027,0.0044,,,0.0027,,,,,,,1.44,0.196
+1704,MD,2010-09-14,Potomac River,Northeast,Virginian Province,Y,0.016,30.01,0.348,0.0073,,,0.348,,,,,,,1.01,0.0677
+1705,MD,2010-09-02,Wye River,Northeast,Virginian Province,Y,0.019,15.02,0.0016,0.034,,,0.0016,,,,,,,0.57,0.0534
+1706,MD,2010-08-25,Patuxent River,Northeast,Virginian Province,Y,0.041,28.41,0.0135,0.0949,,,0.0135,,,,,,,0.46,0.1152
+1722,MA,2010-08-13,Westport River,Northeast,Virginian Province,Y,0.012,2.27,0.036,0.021,,,0.024,,,,,,,0.23875,0.03654875
+1723,MD,2010-09-02,Leadenham Creek,Northeast,Virginian Province,Y,0.016,13.73,0.0045,0.005,,,0.0045,,,,,,,0.6,0.062
+1724,MD,2010-09-02,Little Choptank River,Northeast,Virginian Province,Y,0.0,6.07,0.0027,0.0019,,,0.0027,,,,,,,0.41,0.0383
+1725,MD,2010-09-01,Potomac River,Northeast,Virginian Province,Y,0.009,6.02,0.0027,0.0027,,,0.0027,,,,,,,0.42,0.0358
+1726,MD,2010-09-21,Wicomico River,Northeast,Virginian Province,Y,0.0,20.22,0.0022,0.0079,,,0.0022,,,,,,,0.85,0.083
+1727,MD,2010-09-29,Chester River,Northeast,Virginian Province,Y,0.062,13.83,0.119,0.0557,,,0.119,,,,,,,0.59,0.0974
+1728,MD,2010-09-01,Potomac River,Northeast,Virginian Province,Y,0.0,7.02,0.0017,0.0026,,,0.0017,,,,,,,0.46,0.046
+1737,IN,2010-09-20,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,1.3962,0.28,0.005,,,0.278,,,,,,,0.38125,0.00376
+1738,IN,2010-09-20,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.008,25.4896,0.303,0.004,,,0.295,,,,,,,0.43625,0.00818125
+1739,IL,2010-07-06,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.008,0.45,0.29,0.004,,,0.282,,,,,,,0.4225,0.00384375
+1740,IL,2010-07-07,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.01,0.3,0.271,0.004,,,0.261,,,,,,,0.42375,0.003825
+1741,IL,2010-07-08,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.012,0.33,0.229,0.004,,,0.217,,,,,,,0.38125,0.00408625
+1742,NY,2010-08-16,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.012,8.94,0.395,0.023,,,0.383,,,,,,,0.7775,0.04063875
+1743,NY,2010-08-17,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.019,4.35,0.025,0.006,,,0.006,,,,,,,0.345,0.02701375
+1752,RI,2010-08-10,Sakonnet River,Northeast,Virginian Province,Y,0.008,2.78,0.028,0.028,,,0.02,,,,,,,0.29,0.06163375
+1753,TX,2010-09-14,Corpus Christi Bay,Gulf,Louisianian Province,Y,0.009,6.27,0.019,0.024,,,0.01,,,,,,,0.5275,0.04807
+1755,MI,2010-09-24,Lake Superior,Great Lakes,Great Lakes Province,Y,0.006,1.46,0.375,0.006,,,0.369,,,,,,,0.3675,0.00307
+1756,WI,2010-08-19,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,0.45,0.336,0.0,,,0.336,,,,,,0.0,0.336,0.0022
+1757,WI,2010-09-08,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,1.05,0.355,0.0,,,0.355,,,,,,0.15,0.505,0.0108
+1758,WI,2010-08-17,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,0.83,0.346,0.0,,,0.346,,,,,,0.24,0.586,0.0056
+1761,NY,2010-08-07,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.014,4.17,0.224,0.002,,,0.21,,,,,,,0.445,0.006838
+1762,NY,2010-08-14,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.004,3.08,0.186,0.003,,,0.182,,,,,,,0.41625,0.00636375
+1763,NY,2010-08-11,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.011,2.52,0.232,0.002,,,0.221,,,,,,,0.51,0.00644
+1764,NY,2010-08-07,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.008,2.92,0.237,0.002,,,0.229,,,,,,,0.47125,0.006513
+1765,NY,2010-08-15,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.007,3.18,0.192,0.003,,,0.185,,,,,,,0.41625,0.00560125
+1766,NY,2010-08-08,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.004,4.27,0.206,0.002,,,0.202,,,,,,,0.445,0.0092925
+1767,NY,2010-08-13,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.01,3.91,0.173,0.002,,,0.163,,,,,,,0.4025,0.0070225
+1768,NY,2010-08-12,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.012,2.55,0.179,0.001,,,0.167,,,,,,,0.445,0.00748875
+1769,NY,2010-08-10,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.008,5.08,0.178,0.003,,,0.17,,,,,,,0.53375,0.01291125
+1770,NY,2010-08-04,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.021,0.63,0.161,0.003,,,0.14,,,,,,,0.3475,0.007561
+1772,NY,2010-08-05,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.012,2.48,0.195,0.002,,,0.183,,,,,,,0.4025,0.007934
+1773,NY,2010-08-09,Lake Ontario,Great Lakes,Great Lakes Province,Y,0.014,2.05,0.225,0.01,,,0.211,,,,,,,0.48625,0.0044525
+1774,WI,2010-07-26,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.0,5.34,0.0,0.0,,,0.0,,,,,,0.56,0.56,0.0239
+1775,AL,2010-07-13,Mobile Bay,Gulf,Louisianian Province,Y,0.004,6.9,0.008,0.014,,,0.004,,,,,,,0.375,0.0511925
+1777,AL,2010-07-12,Mobile Bay,Gulf,Louisianian Province,Y,0.005,9.38,0.016,0.02,,,0.011,,,,,,,0.35625,0.046455
+1779,AL,2010-07-14,Pelican Bay,Gulf,Louisianian Province,Y,0.003,3.23,0.013,0.005,,,0.01,,,,,,,0.1825,0.01572875
+1780,AL,2010-07-19,Mobile Bay,Gulf,Louisianian Province,Y,0.003,9.19,0.011,0.02,,,0.008,,,,,,,0.365,0.05559375
+1781,AL,2010-07-13,Mobile Bay,Gulf,Louisianian Province,Y,0.005,12.41,0.005,0.022,,,0.0,,,,,,,0.46625,0.08547375
+1782,AL,2010-07-09,Mobile Bay,Gulf,Louisianian Province,Y,0.003,3.16,0.016,0.015,,,0.013,,,,,,,0.31,0.0313575
+1783,AL,2010-07-12,Mobile Bay,Gulf,Louisianian Province,Y,0.006,34.98,0.017,0.026,,,0.011,,,,,,,0.57625,0.08896875
+1784,AL,2010-07-08,Mobile Bay,Gulf,Louisianian Province,Y,0.003,9.83,0.017,0.013,,,0.014,,,,,,,0.4075,0.04818875
+1785,AL,2010-07-14,Pelican Bay,Gulf,Louisianian Province,Y,0.003,6.09,0.011,0.005,,,0.008,,,,,,,0.22625,0.02063
+1786,AL,2010-07-20,Mobile Bay,Gulf,Louisianian Province,Y,0.003,10.02,0.013,0.022,,,0.01,,,,,,,0.4475,0.0535275
+1787,AL,2010-07-09,Mobile Bay,Gulf,Louisianian Province,Y,0.004,4.47,0.016,0.016,,,0.012,,,,,,,0.34,0.038075
+1788,AL,2010-07-07,Mobile Bay,Gulf,Louisianian Province,Y,0.004,6.63,0.014,0.01,,,0.01,,,,,,,0.31125,0.033725
+1792,TX,2010-10-04,Mesquite Bay,Gulf,Louisianian Province,Y,0.018,8.88,0.033,0.114,,,0.015,,,,,,,0.54125,0.13357375
+1793,AL,2010-07-01,Portersville Bay,Gulf,Louisianian Province,Y,0.0,18.36,0.0,0.016,,,0.0,,,,,,,0.633625,0.08006675
+1794,VA,2010-06-30,Chickahominy River,Northeast,Virginian Province,Y,0.007,11.7,0.007,0.011,4.4,0.0,0.0,0.0,0.184,0.0133,0.301,0.016,,0.485,0.0293
+1796,VA,2010-08-25,Pocomoke River,Northeast,Virginian Province,Y,0.012,14.8,0.017,0.05,2.9,0.003,0.005,0.002,0.378,0.0251,0.565,0.069,,0.943,0.0941
+1797,VA,2010-07-21,Milford Haven,Northeast,Virginian Province,Y,0.017,13.8,0.017,0.008,1.6,0.003,0.003,0.0,0.236,0.0351,0.188,0.01,,0.424,0.0451
+1798,VA,2010-09-09,Rappahannock River,Northeast,Virginian Province,Y,0.026,6.75,0.093,0.012,2.7,0.0051,0.067,0.062,0.184,0.0372,0.454,0.022,,0.638,0.0592
+1799,VA,2010-07-22,Pocomoke Sound,Northeast,Virginian Province,Y,0.013,7.16,0.013,0.006,1.0,0.003,0.003,0.0,0.234,0.0417,0.208,0.008,,0.442,0.0497
+1800,VA,2010-07-21,York River,Northeast,Virginian Province,Y,0.068,8.74,0.073,0.007,1.7,0.005,0.005,0.0,0.201,0.0715,0.26,0.012,,0.461,0.0835
+1801,VA,2010-08-25,Upper James River,Northeast,Virginian Province,Y,0.025,7.69,0.254,0.032,2.8,0.145,0.229,0.084,0.123,0.0869,0.532,0.04,,0.655,0.1269
+1802,NY,2010-08-11,Long Island Sound,Northeast,Virginian Province,Y,0.0,6.1,0.004,0.041,,0.0,0.004,0.005,,,,,,0.281,0.073
+1803,NY,2010-08-11,Long Island Sound,Northeast,Virginian Province,Y,0.0,2.7,0.003,0.048,,0.0,0.003,0.005,,,,,,0.207,0.056
+1804,FL,2010-08-19,Biscayne Bay,Southeast,West Indian Province,Y,0.023,0.42,0.044,0.005,,,0.021,,,,,,,0.315,0.00904875
+1805,FL,2010-08-20,Biscayne Bay,Southeast,West Indian Province,Y,0.012,1.93,0.029,0.007,,,0.017,,,,,,,0.4025,0.0125375
+1806,FL,2010-08-19,Biscayne Bay,Southeast,West Indian Province,Y,0.015,0.28,0.034,0.005,,,0.019,,,,,,,0.44,0.009005
+1807,FL,2010-08-20,Biscayne Bay,Southeast,West Indian Province,Y,0.011,0.18,0.029,0.006,,,0.018,,,,,,,0.225,0.0105525
+1808,FL,2010-08-19,Biscayne Bay,Southeast,West Indian Province,Y,0.028,0.41,0.046,0.006,,,0.018,,,,,,,0.63125,0.01585625
+1831,OR,2010-08-23,Youngs Bay,West,Columbian Province,Y,0.022,4.6,0.172,0.042,,,0.15,,,,,,,0.41,0.052825
+1832,OR,2010-08-25,Columbia River,West,Columbian Province,Y,0.01,2.91,0.164,0.038,,,0.154,,,,,,,0.32,0.0390375
+1833,AL,2010-07-19,Mobile Bay,Gulf,Louisianian Province,Y,0.024,12.05,0.04,0.015,,,0.016,,,,,,,0.44625,0.051145
+1834,AL,2010-07-22,Mobile Bay,Gulf,Louisianian Province,Y,0.002,6.61,0.063,0.015,,,0.061,,,,,,,0.41,0.04442
+1835,FL,2010-08-13,Chassahowitzka Bay,Gulf,Louisianian Province,Y,0.013,2.27,0.022,0.03,,,0.009,,,,,,,0.61625,0.02237625
+1836,VA,2010-08-05,Upper James River,Northeast,Virginian Province,Y,0.085,54.9,0.346,0.011,2.3,0.237,0.261,0.024,0.614,0.0944,0.697,0.021,,1.311,0.1154
+1847,RI,2010-07-26,Greenwich Bay,Northeast,Virginian Province,Y,0.0,19.05,0.024,0.057,,,0.024,,,,,,,0.5925,0.137285
+1848,RI,2010-08-02,Narragansett Bay,Northeast,Virginian Province,Y,0.005,6.13,0.023,0.025,,,0.018,,,,,,,0.364375,0.06356625
+1855,AL,2010-07-15,Dog River,Gulf,Louisianian Province,Y,0.002,13.72,0.009,0.01,,,0.007,,,,,,,0.54875,0.05627
+1856,VA,2010-07-15,York River,Northeast,Virginian Province,Y,0.006,7.92,0.006,0.01,1.8,0.003,0.003,0.0,0.239,0.0514,0.228,0.015,,0.467,0.0664
+1861,ME,2010-08-19,Casco Bay,Northeast,Acadian Province,Y,0.003,1.05968,0.019,0.014,,,0.016,,,,,,,0.27375,0.028275
+1863,ME,2010-08-24,Friar Roads,Northeast,Acadian Province,Y,0.011,1.88,0.068,0.03,,,0.057,,,,,,,0.23,0.0324625
+1864,ME,2010-08-11,Machias Bay,Northeast,Acadian Province,Y,0.013,1.3,0.075,0.024,,,0.062,,,,,,,0.27,0.02746625
+1865,ME,2010-08-23,Frenchman Bay,Northeast,Acadian Province,Y,0.023,3.38,0.046,0.038,,,0.023,,,,,,,0.255,0.05312
+1869,OR,2010-09-09,Yaquina Bay,West,Columbian Province,Y,0.037,6.01,0.133,0.045,,,0.096,,,,,,,0.4225,0.07031875
+1870,OR,2010-08-03,Umpqua River,West,Columbian Province,Y,0.012,4.1,0.096,0.03,,,0.084,,,,,,,0.305,0.042426875
+1871,OR,2010-08-11,Tillamook Bay,West,Columbian Province,Y,0.028,8.32,0.111,0.03,,,0.083,,,,,,,0.3925,0.04989375
+1872,OR,2010-06-24,Coos Bay,West,Columbian Province,Y,0.016,3.97,0.178,0.037,,,0.162,,,,,,,0.319375,0.038235625
+1874,OR,2010-08-05,South Slough,West,Columbian Province,Y,0.068,2.7208,0.101,0.055,,,0.033,,,,,,,0.41375,0.089601875
+1875,OR,2010-08-04,Umpqua River,West,Columbian Province,Y,0.022,56.42,0.049,0.021,,,0.027,,,,,,,0.8475,0.136484375
+1876,OR,2010-09-14,Tillamook Bay,West,Columbian Province,Y,0.03,4.01,0.098,0.035,,,0.068,,,,,,,0.36,0.04186125
+1877,OR,2010-08-10,Tillamook Bay,West,Columbian Province,Y,0.014,2.08,0.042,0.033,,,0.028,,,,,,,0.285,0.04442875
+1878,OR,2010-09-08,Nestucca Bay,West,Columbian Province,Y,0.008,17.61,0.021,0.009,,,0.013,,,,,,,0.40125,0.05588875
+1879,TX,2010-10-05,Baffin Bay,Gulf,Louisianian Province,Y,0.012,31.5,0.012,0.058,,,0.0,,,,,,,1.203,0.16291875
+1893,WI,2010-09-08,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,2.54,0.336,0.004,,,0.334,,,,,,,0.48125,0.00723125
+1894,MI,2010-09-25,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,1.38,0.363,0.006,,,0.361,,,,,,,0.37625,0.00301125
+1895,MI,2010-08-25,Lake Huron,Great Lakes,Great Lakes Province,Y,0.007,1.4,0.214,0.002,,,0.207,,,,,,,0.4,0.003315
+1896,MI,2010-08-24,Lake Huron,Great Lakes,Great Lakes Province,Y,0.005,1.03,0.192,0.002,,,0.187,,,,,,,0.38375,0.00397375
+1897,MI,2010-09-25,Lake Superior,Great Lakes,Great Lakes Province,Y,0.006,1.39,0.366,0.005,,,0.36,,,,,,,0.37125,0.00371
+1898,MI,2010-09-14,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,1.56,0.028,0.004,,,0.026,,,,,,,0.3625,0.00397625
+1899,MI,2010-08-11,Lake Huron,Great Lakes,Great Lakes Province,Y,0.006,12.89,0.013,0.007,,,0.007,,,,,,,0.7,0.01958125
+1900,MI,2010-09-26,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,0.82,0.364,0.005,,,0.36,,,,,,,0.37375,0.002335
+1901,MI,2010-09-21,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,1.27,0.342,0.004,,,0.341,,,,,,,0.39,0.00442
+1902,MI,2010-08-12,Lake Huron,Great Lakes,Great Lakes Province,Y,0.019,4.29,0.026,0.003,,,0.007,,,,,,,0.91,0.0273425
+1903,MI,2010-09-21,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,1.51,0.326,0.004,,,0.326,,,,,,,0.36625,0.00329625
+1904,WI,2010-08-24,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.014,1.4,0.147,0.001,,,0.133,,,,,,,0.375,0.00633
+1905,WI,2010-08-26,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,3.26,0.022,0.004,,,0.019,,,,,,,0.3725,0.01342
+1906,MI,2010-09-22,Lake Superior,Great Lakes,Great Lakes Province,Y,0.005,1.09,0.359,0.005,,,0.354,,,,,,,0.375,0.0
+1907,MI,2010-09-26,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,1.42,0.361,0.006,,,0.357,,,,,,,0.3725,0.0038675
+1908,MI,2010-08-10,Lake Huron,Great Lakes,Great Lakes Province,Y,0.001,11.48,0.01,0.01,,,0.009,,,,,,,0.71,0.01925375
+1909,MI,2010-09-27,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,1.01,0.355,0.006,,,0.354,,,,,,,0.36375,0.002355
+1910,WI,2010-08-29,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,41.24,0.005,0.008,,,0.002,,,,,,,1.38,0.0980475
+1911,MI,2010-09-27,Lake Superior,Great Lakes,Great Lakes Province,Y,0.006,1.38,0.365,0.005,,,0.359,,,,,,,0.37375,0.003175
+1912,WI,2010-08-30,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,49.64,0.003,0.014,,,0.0,,,,,,,1.345,0.1736125
+1913,MI,2010-08-18,Lake Huron,Great Lakes,Great Lakes Province,Y,0.004,13.0,0.004,0.002,,,0.0,,,,,,,0.76125,0.0355875
+1914,MI,2010-09-23,Lake Superior,Great Lakes,Great Lakes Province,Y,0.008,1.18,0.372,0.006,,,0.364,,,,,,,0.39,0.00345
+1915,WI,2010-09-14,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,0.98,0.367,0.005,,,0.365,,,,,,,0.50125,0.0
+1916,WI,2010-08-28,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,3.42,0.057,0.003,,,0.052,,,,,,,0.36625,0.00976875
+1917,MI,2010-09-23,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,1.55,0.348,0.007,,,0.344,,,,,,,0.375,0.00371125
+1918,WI,2010-08-23,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.011,1.41,0.124,0.002,,,0.113,,,,,,,0.37625,0.00887
+1919,MI,2010-09-22,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,0.99,0.348,0.004,,,0.346,,,,,,,0.38375,0.0031675
+1920,MI,2010-09-15,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,2.182368,0.036,0.003,,,0.034,,,,,,,0.27375,0.00614375
+1921,MI,2010-08-17,Lake Huron,Great Lakes,Great Lakes Province,Y,0.002,12.6,0.002,0.002,,,0.0,,,,,,,1.03875,0.0367825
+1922,WI,2010-08-25,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.089,5.0478,0.194,0.002,,,0.105,,,,,,,0.613,0.01725625
+1923,MI,2010-08-16,Lake Huron,Great Lakes,Great Lakes Province,Y,0.012,2.75,0.116,0.017,,,0.104,,,,,,,0.5,0.040635
+1924,MI,2010-09-24,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,1.4,0.364,0.005,,,0.362,,,,,,,0.38,0.00295875
+1925,MI,2010-08-19,Lake Huron,Great Lakes,Great Lakes Province,Y,0.024,8.49,0.031,0.003,,,0.007,,,,,,,0.755,0.02210875
+1926,WI,2010-08-27,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,3.03,0.008,0.001,,,0.005,,,,,,,0.3125,0.0075875
+1927,MI,2010-09-28,Lake Superior,Great Lakes,Great Lakes Province,Y,0.003,2.13,0.32,0.007,,,0.317,,,,,,,0.455,0.0161625
+2148,WI,2010-09-19,Lake Superior,Great Lakes,Great Lakes Province,Y,0.005,0.36,0.382,0.005,,,0.377,,,,,,,0.385,0.00360625
+2149,WI,2010-08-21,Lake Superior,Great Lakes,Great Lakes Province,Y,0.063,2.15,0.361,0.019,,,0.298,,,,,,,0.92625,0.0524575
+2150,WI,2010-08-22,Lake Superior,Great Lakes,Great Lakes Province,Y,0.046,3.28,0.214,0.024,,,0.168,,,,,,,1.06125,0.06306625
+2151,WI,2010-09-18,Lake Superior,Great Lakes,Great Lakes Province,Y,0.005,0.52,0.38,0.004,,,0.375,,,,,,,0.41,0.00394
+2152,WI,2010-09-17,Lake Superior,Great Lakes,Great Lakes Province,Y,0.006,0.55,0.383,0.004,,,0.377,,,,,,,0.41,0.00402125
+2153,MN,2010-08-23,Lake Superior,Great Lakes,Great Lakes Province,Y,0.074,1.55,0.228,0.023,,,0.154,,,,,,,1.085,0.06370375
+2154,WI,2010-09-16,Lake Superior,Great Lakes,Great Lakes Province,Y,0.003,0.91,0.371,0.004,,,0.368,,,,,,,0.41375,0.00395875
+2316,SC,2010-08-03,MINIM CREEK,Southeast,Carolinian Province,Y,0.008,30.36,0.015,0.013,,,0.007,,,,,,,0.765,0.072210625
+2320,SC,2010-08-18,St. Helena Sound,Southeast,Carolinian Province,Y,0.098,,0.144,0.072,,,0.046,,,,,,,0.6375,0.115305
+2321,SC,2010-08-17,Broad River,Southeast,Carolinian Province,Y,0.1,,0.12,0.083,,,0.02,,,,,,,0.66375,0.1490675
+2322,SC,2010-08-11,Savanna River,Southeast,Carolinian Province,Y,0.032,7.5,0.193,0.058,,,0.161,,,,,,,0.96,0.0952675
+2323,SC,2010-08-10,Broad River,Southeast,Carolinian Province,Y,0.012,8.13,0.03,0.026,,,0.018,,,,,,,0.38625,0.06495875
+2324,SC,2010-08-10,Broad River,Southeast,Carolinian Province,Y,0.034,11.66,0.053,0.055,,,0.019,,,,,,,0.5725,0.102951
+2325,SC,2010-08-04,Charleston Harbor,Southeast,Carolinian Province,Y,0.009,8.96,0.027,0.023,,,0.018,,,,,,,0.424375,0.067285
+2326,SC,2010-08-04,Sewee Bay,Southeast,Carolinian Province,Y,0.023,12.03,0.043,0.036,,,0.02,,,,,,,0.460625,0.0758
+2327,SC,2010-08-03,WINYAH BAY,Southeast,Carolinian Province,Y,0.063,17.47,0.301,0.033,,,0.238,,,,,,,0.865,0.073774375
+2328,SC,2010-07-21,St. Helena Sound,Southeast,Carolinian Province,Y,0.0,7.56,0.027,0.038,,,0.027,,,,,,,0.47625,0.06908625
+2329,SC,2010-07-20,South Edisto River,Southeast,Carolinian Province,Y,0.003,11.91,0.027,0.037,,,0.024,,,,,,,0.54,0.0690975
+2330,SC,2010-07-20,South Edisto River,Southeast,Carolinian Province,Y,0.004,14.89,0.031,0.062,,,0.027,,,,,,,0.765,0.15603625
+2331,SC,2010-07-14,Charleston Harbor,Southeast,Carolinian Province,Y,0.017,12.14,0.112,0.085,,,0.095,,,,,,,0.57,0.1448675
+2332,SC,2010-07-14,Stono River,Southeast,Carolinian Province,Y,0.041,6.57,0.08,0.033,,,0.039,,,,,,,0.4225,0.05718
+2333,SC,2010-07-27,St. Helena Sound,Southeast,Carolinian Province,Y,0.0,16.15,0.092,0.062,,,0.092,,,,,,,0.82,0.1334325
+2334,SC,2010-07-28,St. Helena Sound,Southeast,Carolinian Province,Y,0.018,17.52,0.047,0.078,,,0.029,,,,,,,0.7,0.14606875
+2335,SC,2010-07-27,St. Helena Sound,Southeast,Carolinian Province,Y,0.009,9.57,0.034,0.045,,,0.025,,,,,,,0.81625,0.17148625
+2336,SC,2010-07-13,Stono River,Southeast,Carolinian Province,Y,0.041,9.1,0.053,0.031,,,0.012,,,,,,,0.6425,0.1726375
+2337,SC,2010-07-21,St. Helena Sound,Southeast,Carolinian Province,Y,0.023,13.6,0.049,0.058,,,0.026,,,,,,,0.65625,0.1113175
+2338,SC,2010-07-28,JOHNSON CREEK,Southeast,Carolinian Province,Y,0.021,15.61,0.051,0.056,,,0.03,,,,,,,0.62,0.13684125
+16475,NH,2010-06-24,Great Bay,Northeast,Acadian Province,Y,0.0,4.77,0.01,0.015,,,0.005,0.0,,,,,,0.295,0.05
+16488,NH,2010-06-22,Great Bay,Northeast,Acadian Province,Y,0.015,21.67,0.18,0.02,,,0.165,0.015,,,,,,1.055,0.095
+16522,MI,2010-05-26,Lake Huron,Great Lakes,Great Lakes Province,Y,0.003,0.46,0.217,0.0,,,0.214,,,,,,,0.3325,0.0
+16523,MI,2010-05-26,Lake Huron,Great Lakes,Great Lakes Province,Y,0.011,0.66,0.236,0.003,,,0.225,,,,,,,0.3625,0.0
+16524,MI,2010-05-22,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,0.84,0.345,0.006,,,0.343,,,,,,,0.478125,0.0
+16525,MI,2010-05-26,Lake Huron,Great Lakes,Great Lakes Province,Y,0.004,5.04,0.805,0.0,,,0.801,,,,,,,1.369,0.016185
+16526,MI,2010-05-22,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.002,1.22,0.382,0.008,,,0.38,,,,,,,0.520625,0.0
+16527,MI,2010-05-21,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,2.94,0.521,0.007,,,0.518,,,,,,,0.671875,0.00335
+16567,MI,2010-05-25,Lake Huron,Great Lakes,Great Lakes Province,Y,0.017,0.44,0.252,0.0,,,0.235,,,,,,,0.455,0.0
+16568,MI,2010-05-26,Lake Huron,Great Lakes,Great Lakes Province,Y,0.008,0.56,0.29,0.004,,,0.282,,,,,,,0.47875,0.004044
+16569,MI,2010-05-27,Lake Huron,Great Lakes,Great Lakes Province,Y,0.005,0.48688,0.189,0.0,,,0.184,,,,,,,0.28375,0.0
+16570,MI,2010-05-27,Lake Huron,Great Lakes,Great Lakes Province,Y,0.001,0.47,0.251,0.0,,,0.25,,,,,,,0.36375,0.0
+16617,MI,2010-06-10,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,0.85,0.348,0.005,,,0.347,,,,,,,0.37125,0.005065
+16618,MI,2010-06-07,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,0.83,0.351,0.005,,,0.349,,,,,,,0.36,0.00575125
+16619,MI,2010-06-23,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,0.64,0.337,0.009,,,0.336,,,,,,,0.388125,0.0
+16620,NY,2010-07-07,Lake Erie,Great Lakes,Great Lakes Province,Y,0.001,6.37,0.145,0.003,,,0.144,,,,,,,0.41,0.00705875
+16621,NY,2010-07-09,Lake Erie,Great Lakes,Great Lakes Province,Y,0.007,17.69,0.147,0.003,,,0.14,,,,,,,0.41125,0.0076275
+16622,MI,2010-06-18,Lake Erie,Great Lakes,Great Lakes Province,Y,0.036,8.02,0.474,0.011,,,0.438,,,,,,,0.71125,0.04071625
+16623,OH,2010-06-28,Lake Erie,Great Lakes,Great Lakes Province,Y,0.007,144.63,2.562,0.008,,,2.555,,,,,,,4.025,0.19339875
+16624,MI,2010-06-15,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,1.31,0.262,0.005,,,0.257,,,,,,,0.36125,0.00253125
+16625,MI,2010-06-22,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.012,0.4,0.263,0.007,,,0.251,,,,,,,0.339375,0.0
+16626,MI,2010-06-20,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.004,1.1,0.216,0.007,,,0.212,,,,,,,0.3675,0.0
+16627,MI,2010-06-19,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,0.56,0.267,0.007,,,0.264,,,,,,,0.36625,0.0
+16644,NC,2010-06-14,Corrituck Sound,Southeast,Carolinian Province,Y,0.005,32.67,0.005,0.006,,,0.0,,,,,,,0.995,0.0550625
+16645,NC,2010-06-15,Batchelor Bay,Southeast,Carolinian Province,Y,0.005,7.68,0.014,0.017,,,0.009,,,,,,,0.39,0.042959
+16646,NC,2010-06-08,Pamlico River,Southeast,Carolinian Province,Y,0.003,16.78,0.015,0.014,,,0.012,,,,,,,0.64875,0.04773625
+16647,NC,2010-06-07,Pamlico River,Southeast,Carolinian Province,Y,0.003,13.8,0.014,0.014,,,0.011,,,,,,,0.63875,0.04081625
+16648,NC,2010-06-15,Albermarle Sound,Southeast,Carolinian Province,Y,0.003,11.14,0.003,0.013,,,0.0,,,,,,,0.42875,0.03963625
+16649,NC,2010-06-02,Rose Bay,Southeast,Carolinian Province,Y,0.004,8.96,0.015,0.007,,,0.011,,,,,,,0.54125,0.04322125
+16650,FL,2010-06-09,Sarasota Bay,Gulf,West Indian Province,Y,0.002,7.15,0.041,0.004,,,0.039,,,,,,,0.43,0.03129125
+16651,FL,2010-06-08,St. Joseph Sound,Gulf,West Indian Province,Y,0.003,9.38,0.041,0.008,,,0.038,,,,,,,0.4775,0.02232375
+16652,FL,2010-06-10,Tampa Bay,Gulf,West Indian Province,Y,0.001,2.77,0.035,0.046,,,0.034,,,,,,,0.28,0.051395
+16653,FL,2010-06-09,Manatee River,Gulf,West Indian Province,Y,0.003,8.15,0.036,0.096,,,0.033,,,,,,,0.4475,0.13118375
+16654,FL,2010-06-10,Tampa Bay,Gulf,West Indian Province,Y,0.001,1.45,0.04,0.023,,,0.039,,,,,,,0.21875,0.0295125
+16655,MI,2010-06-21,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.006,1.91,0.2,0.006,,,0.194,,,,,,,0.395,0.0
+16656,MI,2010-06-22,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.009,0.39,0.27,0.007,,,0.261,,,,,,,0.339375,0.0
+16657,MI,2010-06-14,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.013,1.6,0.278,0.008,,,0.265,,,,,,,0.4,0.00862125
+16658,MI,2010-06-18,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.008,0.84,0.271,0.007,,,0.263,,,,,,,0.3975,0.0
+16668,MI,2010-06-01,Lake Huron,Great Lakes,Great Lakes Province,Y,0.004,0.63,0.213,0.0,,,0.209,,,,,,,0.295,0.0
+16669,MI,2010-06-01,Lake Huron,Great Lakes,Great Lakes Province,Y,0.0,1.15,0.222,0.0,,,0.222,,,,,,,0.31125,0.0
+16671,MI,2010-06-06,Lake Huron,Great Lakes,Great Lakes Province,Y,0.01,0.22,0.212,0.003,,,0.202,,,,,,,0.3,0.00406125
+16672,MI,2010-06-05,Lake Huron,Great Lakes,Great Lakes Province,Y,0.003,0.53,0.234,0.003,,,0.231,,,,,,,0.31375,0.00312375
+16673,MI,2010-06-03,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.007,0.19,0.211,0.004,,,0.204,,,,,,,0.30125,0.002885
+16674,MI,2010-06-05,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.007,1.07,0.122,0.004,,,0.115,,,,,,,0.27,0.006465
+16675,MI,2010-06-03,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,0.55,0.111,0.003,,,0.106,,,,,,,0.25375,0.00385875
+16676,MI,2010-06-04,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.004,1.09,0.143,0.003,,,0.139,,,,,,,0.28875,0.0045325
+16677,MI,2010-06-02,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,0.24,0.16,0.003,,,0.157,,,,,,,0.3125,0.0
+16678,MI,2010-06-02,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,1.14,0.134,0.002,,,0.131,,,,,,,0.26375,0.0
+16679,MI,2010-06-11,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,1.01,0.345,0.005,,,0.344,,,,,,,0.36,0.0
+16680,MI,2010-06-16,Lake Superior,Great Lakes,Great Lakes Province,Y,0.004,4.24,0.22,0.007,,,0.216,,,,,,,0.38875,0.00714125
+16681,MI,2010-06-07,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,0.79,0.345,0.004,,,0.345,,,,,,,0.37125,0.004535
+16682,MI,2010-06-08,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,0.79,0.347,0.005,,,0.346,,,,,,,0.35875,0.0046025
+16683,MI,2010-06-10,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,0.87,0.348,0.005,,,0.347,,,,,,,0.35875,0.00493875
+16684,MI,2010-06-14,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,0.55,0.347,0.005,,,0.346,,,,,,,0.3625,0.0
+16685,MI,2010-06-09,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,1.72,0.351,0.005,,,0.351,,,,,,,0.36875,0.00594
+16686,MI,2010-06-09,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,0.72,0.35,0.005,,,0.349,,,,,,,0.365,0.00416875
+16687,MI,2010-06-08,Lake Superior,Great Lakes,Great Lakes Province,Y,0.002,0.9,0.339,0.005,,,0.337,,,,,,,0.35375,0.00520875
+16688,MI,2010-06-11,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,0.8,0.351,0.005,,,0.35,,,,,,,0.36375,0.0
+16689,MI,2010-06-14,Lake Superior,Great Lakes,Great Lakes Province,Y,0.001,0.68,0.343,0.005,,,0.342,,,,,,,0.37375,0.0
+16690,MI,2010-06-07,Lake Superior,Great Lakes,Great Lakes Province,Y,0.0,1.2,0.341,0.005,,,0.341,,,,,,,0.3875,0.006505
+16691,CA,2010-06-30,San Diego Bay,West,Californian Province,Y,0.0,3.99,0.009,0.028,,,0.009,,,,,,,0.27625,0.048341125
+16692,CA,2010-06-30,San Diego Bay,West,Californian Province,Y,0.0,2.54,0.009,0.027,,,0.009,,,,,,,0.348125,0.07834525
+16693,CA,2010-06-30,San Diego Bay,West,Californian Province,Y,0.0,3.58,0.009,0.029,,,0.009,,,,,,,0.258125,0.04658925
+16694,CA,2010-06-30,San Diego Bay,West,Californian Province,Y,0.002,2.06,0.012,0.031,,,0.01,,,,,,,0.23225,0.046254125
+16727,MI,2010-06-18,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.003,0.75,0.26,0.007,,,0.257,,,,,,,0.38,0.0
+16728,MI,2010-06-25,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.005,2.27,0.235,0.013,,,0.23,,,,,,,0.437625,0.00624925
+16729,MI,2010-06-16,Lake Michigan,Great Lakes,Great Lakes Province,Y,0.01,1.11,0.25,0.004,,,0.24,,,,,,,0.36125,0.0
+16730,CA,2010-06-29,San Diego Bay,West,Californian Province,Y,0.017,2.11,0.028,0.034,,,0.011,,,,,,,0.213,0.04412725
+16731,CA,2010-06-29,San Diego Bay,West,Californian Province,Y,0.016,2.19,0.028,0.033,,,0.012,,,,,,,0.22875,0.04182125
